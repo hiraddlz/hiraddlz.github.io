@@ -11,9 +11,9 @@ locale                   : "en-US"
 title                    : "Hirad Dolatzadeh"
 title_separator          : "-"
 name                     : &name "Hirad"
-description              : &description "AI/ML Engineer | Data Scientist"
+description              : &description "personal description"
 url                      : https://hiraddlz.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : "hiraddlz/hiraddlz.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
