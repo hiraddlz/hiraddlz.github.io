@@ -1,3 +1,4 @@
+{% include base_path %}
 <!--- ---
  layout: archive
 title: "CV"
@@ -7,7 +8,7 @@ redirect_from:
   - /resume
 ---
 
-# {% include base_path %}
+# 
 
 Education
 ======
