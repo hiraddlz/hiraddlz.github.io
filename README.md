@@ -1,77 +1,100 @@
-# Academic Pages
-**Academic Pages is a Github Pages template for academic websites.**
+PROFESSIONAL SUMMARY
+======
+Machine Learning Engineer with 4+ years of experience in AI-driven solutions, specializing in end-to-end model development, data analysis, and deployment. Proficient in Python, PyTorch, TensorFlow, and cloud platforms like AWS and GCP. Holds an MBA in financial machine learning and excels at translating complex data into actionable strategies while demonstrating strong problem-solving and teamwork skills.
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
+SKILLS
+======
+- Python, R, Julia, SQL, Bash, Git, Docker, Linux, NoSQL, Spark, AWS, GCP
+- PyTorch, Tensorflow, Keras, Scikit-Learn, HuggingFace, LangChain, XGBoost/LightGBM, NLTK, Flask, FastAPI
+- Machine Learning, Deep Learning, Time Series Analysis, Statistics, Computer Vision, Natural Language Processing, MLOps
+- Teamwork, Communication, Problem Solving, Accountability, Time Management, Hard-working, Continuous Learning
 
-# Getting Started
+EXPERIENCE
+======
+* Machine Learning Engineer `|` *Golrang system `|` Tehran, Iran* `|`                                                                                      Apr 2023–May 2024
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+  - LLM-Powered Document Search and Q&A System: Developed a document search solution with OpenAI embeddings and vector databases, improving retrieval speed and relevance through optimized pipelines.
+  - AI-Powered Resume Scraper: Built an automated web app for resume processing, enhancing hiring efficiency by reducing manual screening workload.
+  - Smart Factory Predictive Maintenance: Analyzed IoT sensor data to optimize equipment maintenance schedules, reducing downtime, and created Power BI dashboards visualizing key metrics.
+  - Employee Attrition Prediction: Designed machine learning models to forecast turnover, enabling HR strategies that improved retention and reduced attrition rates.
 
-See more info at https://academicpages.github.io/
+* Teaching Assistant `|` *Tarbiat Modares University `|` Tehran, Iran* `|`                                                                                     Jan 2023–Jul 2023
 
-## Running locally
+  - Delivered instruction on Python programming, deep learning frameworks, and machine learning concepts in the ANN course, facilitated tutorials, and supported students with assignments and projects.
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+* Data Analyst `|` *Fanap Plus / Gereh `|` Tehran, Iran* `|`                                                                                                         Dec 2022–Mar 2023
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+  - Built and maintained ETL pipelines, managing datasets for business intelligence purposes.
+  - Developed a web-based dashboard to visualize the analysis results, facilitating data-driven decision-making for marketing strategies.
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+* Teaching Assistant `|` *Sharif University of Technology `|` Tehran, Iran* `|`                                                                             Jan 2022–Jun 2022
 
-## Using Docker
+  - Collaborated on technical support for blockchain and machine learning projects in the Financial Technologies (FinTech) course, ensuring smooth execution and troubleshooting during coursework. 
 
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
+EDUCATION
+======
+PhD Candidate in IT Management (On hold after migrating to the U.S.) `|` *Tarbiat Modares University `|` Iran*                   Sep 2022 – 
 
-Start by build the container:
+Research Proposal: Providing an Integrated Approach to Predictive Maintenance Based on Graph Neural Networks
 
-```bash
-docker build -t jekyll-site .
-```
+GPA: 3.7/4.0
 
-Next, run the container:
-```bash
-docker run -p 4000:4000 --rm -v $(pwd):/usr/src/app jekyll-site
-```
+Master of Business Administration – MBA `|` *Sharif University of Technology `|` Tehran, Iran*                                   Sep 2019 – Sep 2022
 
-# Maintenance
+Concentration: [How people’s sentiment and attention affect the return of Bitcoin?](https://library.sharif.ir/parvan/resource/501394)
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+GPA: 3.6/4.0
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+Bachelor of Science – BS in Civil Engineering `|` *Sharif University of Technology `|` Tehran, Iran*                              Sep 2012 – Feb 2017
 
-## Bugfixes and enhancements
+GPA: 3.2/4.0
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+PROJECTS
+======
+[How people’s sentiment and attention affect the return of Bitcoin?](https://library.sharif.ir/parvan/resource/501394) `|` Tehran, Iran                                                      Oct 2021 – Sep 2022
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+- Analyzed the influence of investor sentiment and attention (Twitter sentiment analysis, Google search trends, …) on Bitcoin returns using machine learning models.
+- Developed predictive models to forecast Bitcoin returns with 62% accuracy, identifying key variables like the Fear and Greed Index.
+- Utilized SHAP model for interpretability, explaining the impact of different variables on Bitcoin returns.
 
----
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+[Financial Econometrics: TSE Investors Sentiment](https://github.com/hiraddlz/MBA-Projects/tree/master/Financial%20econometrics/TSE%20Inverstors%20sentiments) `|` Tehran, Iran                                                                                 Apr 2021 - Sep 2021
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+- Conducted a study to measure the effect of investors’ sentiments on the return of Tehran Stock Exchange.
+- Implemented the article "Measuring investor sentiment in equity markets" by Bandopadhyaya and Jones (2006) for 398 different stocks.
+
+[Machine Learning in Finance: Bet Sizing & Backtest Methods](https://github.com/hiraddlz/MBA-Projects/tree/master/Machine%20learning%20in%20finance) `|` Tehran, Iran                                                             Apr 2021 - Sep 2021
+
+- investigated the use of algorithmic trading and quantitative finance by implementing chapters 10 & 11 of the book "Advances in Financial Machine Learning" by Marcos Lopez de Prado (2018).
+
+[Investigating the characteristics of social media influencers on uers’ intention to buy](https://www.sid.ir/Fa/Seminar/ViewPaper.aspx?ID=96497) `|` Tehran, Iran                                       Mar 2021
+
+- Conference paper - Case study: Garment industry on instagram
+
+[Fuel Consumption Analysis](https://github.com/hiraddlz/MBA-Projects/tree/master/Business%20analytics) `|` Tehran, Iran                                                                                                                     Oct 2020 - Mar 2021
+
+- Analyzed fuel consumption patterns by crawling data from caranddriver.com and investigating the impact of car specifications.
+
+COURSEWORK
+======
+Artificial Neural Network, Business Intelligence, Cognitive and systems Theories, Machine Learning in Finance, Business Analytics, Econometrics, Corporate Finance, Data Analysis, Computer Programming, Probability and statistics
+
+ACHIEVEMENTS
+======
+- Achieved top 0.34% rank (5/1,465) in the entrance exam for Ph.D. admission
+- Ranked in the top 0.37% (33/8,861) in the university entrance exam for Master’s degree admission
+- Secured a top 0.17% rank (391/229,948) in the national entrance exam for Bachelor’s degree admission
+
+[CERTIFICATIONS](https://www.credly.com/users/hirad-dolatzadeh)
+======
+[TensorFlow: Advanced Techniques](https://www.coursera.org/account/accomplishments/specialization/WE8BKL81B611) `|` DeepLearning.AI `|` 2024
+
+[Custom Models, Layers, and Loss Functions with TensorFlow](https://www.coursera.org/account/accomplishments/verify/NV6V7BT9RDY5) `|` [Custom and Distributed Training with TensorFlow](https://www.coursera.org/account/accomplishments/verify/9SDCKLOSNRIE) `|` [Advanced Computer Vision with TensorFlow](https://www.coursera.org/account/accomplishments/verify/VFCC2SOP4Y0R) `|` [Generative Deep Learning with TensorFlow](https://www.coursera.org/account/accomplishments/verify/LKS3XTHC5PMZ)
+
+[IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/T5L0D1SNYDU6) `|` IBM `|` 2024
+
+[AI Capstone Project with Deep Learning](https://www.credly.com/badges/30173fce-a269-4d49-aaf4-ac9c014cabf6/public_url) `|` [Machine Learning with Python](https://www.credly.com/badges/0c70c00c-726b-490e-b4ad-ab3b7603edb4/public_url) `|` [Introduction to Computer Vision and Image Processing](https://www.credly.com/badges/b9b75365-f308-45c2-b743-d154f82498d9/public_url) `|` [Introduction to Neural Networks and PyTorch](https://www.credly.com/badges/ee996e9c-998d-4b74-85ae-806ee76e8875/public_url) `|` [Building Deep Learning Models with TensorFlow](https://www.credly.com/badges/9ccf078c-08e8-403a-b714-325e3cb28240/public_url) `|` [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/verify/XXCPSF9P5XJW))
+
+[Applied Software Engineering Fundamentals](https://www.coursera.org/account/accomplishments/specialization/FMQDUCYJ0U0P) `|` IBM `|` 2024
+
+[Developing AI Applications with Python and Flask](https://www.coursera.org/account/accomplishments/verify/WHODC7P46VS6) `|` [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.credly.com/badges/0632da84-5b7e-46c5-8898-9d406a3da2ec/public_url) `|` [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/ZF7T3HMNK7PY) `|` [Introduction to Software Engineering](https://www.credly.com/badges/20b10eb1-fadd-4cc6-b263-e96d67070eb4/public_url) `|` [Python for Data Science, AI & Development](https://www.credly.com/badges/44e5e0d8-f6cb-4723-af82-fc77b5f8f936/public_url)
+
