@@ -87,25 +87,25 @@ SKILLS
 
 EXPERIENCE
 ======
-Machine Learning Engineer | *Golrang system | Tehran, Iran* |                                                                                      Apr 2023–May 2024
+* Machine Learning Engineer | *Golrang system | Tehran, Iran* |                                                                                      Apr 2023–May 2024
 
-- LLM-Powered Document Search and Q&A System: Developed a document search solution with OpenAI embeddings and vector databases, improving retrieval speed and relevance through optimized pipelines.
-- AI-Powered Resume Scraper: Built an automated web app for resume processing, enhancing hiring efficiency by reducing manual screening workload.
-- Smart Factory Predictive Maintenance: Analyzed IoT sensor data to optimize equipment maintenance schedules, reducing downtime, and created Power BI dashboards visualizing key metrics.
-- Employee Attrition Prediction: Designed machine learning models to forecast turnover, enabling HR strategies that improved retention and reduced attrition rates.
+  - LLM-Powered Document Search and Q&A System: Developed a document search solution with OpenAI embeddings and vector databases, improving retrieval speed and relevance through optimized pipelines.
+  - AI-Powered Resume Scraper: Built an automated web app for resume processing, enhancing hiring efficiency by reducing manual screening workload.
+  - Smart Factory Predictive Maintenance: Analyzed IoT sensor data to optimize equipment maintenance schedules, reducing downtime, and created Power BI dashboards visualizing key metrics.
+  - Employee Attrition Prediction: Designed machine learning models to forecast turnover, enabling HR strategies that improved retention and reduced attrition rates.
 
-Teaching Assistant | *Tarbiat Modares University | Tehran, Iran* |                                                                                     Jan 2023–Jul 2023
+* Teaching Assistant | *Tarbiat Modares University | Tehran, Iran* |                                                                                     Jan 2023–Jul 2023
 
-- Delivered instruction on Python programming, deep learning frameworks, and machine learning concepts in the ANN course, facilitated tutorials, and supported students with assignments and projects.
+  - Delivered instruction on Python programming, deep learning frameworks, and machine learning concepts in the ANN course, facilitated tutorials, and supported students with assignments and projects.
 
-Data Analyst | *Fanap Plus / Gereh | Tehran, Iran* |                                                                                                         Dec 2022–Mar 2023
+* Data Analyst | *Fanap Plus / Gereh | Tehran, Iran* |                                                                                                         Dec 2022–Mar 2023
 
-- Built and maintained ETL pipelines, managing datasets for business intelligence purposes.
-- Developed a web-based dashboard to visualize the analysis results, facilitating data-driven decision-making for marketing strategies.
+  - Built and maintained ETL pipelines, managing datasets for business intelligence purposes.
+  - Developed a web-based dashboard to visualize the analysis results, facilitating data-driven decision-making for marketing strategies.
 
-Teaching Assistant | *Sharif University of Technology | Tehran, Iran* |                                                                             Jan 2022–Jun 2022
+* Teaching Assistant | *Sharif University of Technology | Tehran, Iran* |                                                                             Jan 2022–Jun 2022
 
-- Collaborated on technical support for blockchain and machine learning projects in the Financial Technologies (FinTech) course, ensuring smooth execution and troubleshooting during coursework. 
+  - Collaborated on technical support for blockchain and machine learning projects in the Financial Technologies (FinTech) course, ensuring smooth execution and troubleshooting during coursework. 
 
 EDUCATION
 ======
