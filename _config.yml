@@ -22,10 +22,10 @@ repository               : "hiraddlz/hiraddlz.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hirad"
+  name             : "Hirad Dolatzadeh"
   pronouns         : # example: "she/her"  
   bio              : "AI/ML Engineer"
-  location         : "San Francisco Bay Area, Ca"
+  location         : "San Francisco Bay Area"
   employer         : "Sharif University of Technology"
   uri              : # URL
   email            : "hirad.dlz@gmail.com" 
