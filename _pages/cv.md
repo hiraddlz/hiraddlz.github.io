@@ -74,10 +74,6 @@ Service and leadership
 * Currently signed in to 43 different slack teams
 --->
 
-Hirad Dolatzadeh
-======
-669-222-9663 |  <hirad.dlz@gmail.com> | Greenbrae, Ca | [github.com/hiraddlz](https://github.com/hiraddlz) | [linkedin.com/in/hirad-dolatzadeh](https://www.linkedin.com/in/hirad-dolatzadeh)
-
 PROFESSIONAL SUMMARY
 ======
 Machine Learning Engineer with 4+ years of experience in AI-driven solutions, specializing in end-to-end model development, data analysis, and deployment. Proficient in Python, PyTorch, TensorFlow, and cloud platforms like AWS and GCP. Holds an MBA in financial machine learning and excels at translating complex data into actionable strategies while demonstrating strong problem-solving and teamwork skills.
@@ -91,23 +87,23 @@ SKILLS
 
 EXPERIENCE
 ======
-Machine Learning Engineer | *Golrang system | Tehran, Iran*                                                                                       Apr 2023– May 2024
+Machine Learning Engineer | *Golrang system | Tehran, Iran* |                                                                                      Apr 2023–May 2024
 
 - LLM-Powered Document Search and Q&A System: Developed a document search solution with OpenAI embeddings and vector databases, improving retrieval speed and relevance through optimized pipelines.
 - AI-Powered Resume Scraper: Built an automated web app for resume processing, enhancing hiring efficiency by reducing manual screening workload.
 - Smart Factory Predictive Maintenance: Analyzed IoT sensor data to optimize equipment maintenance schedules, reducing downtime, and created Power BI dashboards visualizing key metrics.
 - Employee Attrition Prediction: Designed machine learning models to forecast turnover, enabling HR strategies that improved retention and reduced attrition rates.
 
-Teaching Assistant | *Tarbiat Modares University | Tehran, Iran*                                                                                      Jan 2023 – Jul 2023
+Teaching Assistant | *Tarbiat Modares University | Tehran, Iran* |                                                                                     Jan 2023–Jul 2023
 
 - Delivered instruction on Python programming, deep learning frameworks, and machine learning concepts in the ANN course, facilitated tutorials, and supported students with assignments and projects.
 
-Data Analyst | *Fanap Plus / Gereh | Tehran, Iran*                                                                                                          Dec 2022 – Mar 2023
+Data Analyst | *Fanap Plus / Gereh | Tehran, Iran* |                                                                                                         Dec 2022–Mar 2023
 
 - Built and maintained ETL pipelines, managing datasets for business intelligence purposes.
 - Developed a web-based dashboard to visualize the analysis results, facilitating data-driven decision-making for marketing strategies.
 
-Teaching Assistant | *Sharif University of Technology | Tehran, Iran*                                                                              Jan 2022 – Jun 2022
+Teaching Assistant | *Sharif University of Technology | Tehran, Iran* |                                                                             Jan 2022–Jun 2022
 
 - Collaborated on technical support for blockchain and machine learning projects in the Financial Technologies (FinTech) course, ensuring smooth execution and troubleshooting during coursework. 
 
