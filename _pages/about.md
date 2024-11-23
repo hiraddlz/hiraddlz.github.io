@@ -40,21 +40,21 @@ EXPERIENCE
 
 EDUCATION
 ======
-PhD Candidate in IT Management (On hold after migrating to the U.S.) `|` *Tarbiat Modares University `|` Iran* `|`                  Sep 2022 – 
+* PhD Candidate in IT Management (On hold after migrating to the U.S.) `|` *Tarbiat Modares University `|` Iran* `|`                  Sep 2022 – 
 
-Research Proposal: Providing an Integrated Approach to Predictive Maintenance Based on Graph Neural Networks
+  * Research Proposal: Providing an Integrated Approach to Predictive Maintenance Based on Graph Neural Networks
 
-GPA: 3.7/4.0
+  * GPA: 3.7/4.0
 
-Master of Business Administration – MBA `|` *Sharif University of Technology `|` Tehran, Iran*  `|`                                 Sep 2019 – Sep 2022
+* Master of Business Administration – MBA `|` *Sharif University of Technology `|` Tehran, Iran*  `|`                                 Sep 2019 – Sep 2022
 
-Concentration: [How people’s sentiment and attention affect the return of Bitcoin?](https://library.sharif.ir/parvan/resource/501394)
+ * Concentration: [How people’s sentiment and attention affect the return of Bitcoin?](https://library.sharif.ir/parvan/resource/501394)
 
-GPA: 3.6/4.0
+ * GPA: 3.6/4.0
 
-Bachelor of Science – BS in Civil Engineering `|` *Sharif University of Technology `|` Tehran, Iran* `|`                             Sep 2012 – Feb 2017
+* Bachelor of Science – BS in Civil Engineering `|` *Sharif University of Technology `|` Tehran, Iran* `|`                             Sep 2012 – Feb 2017
 
-GPA: 3.2/4.0
+ * GPA: 3.2/4.0
 
 PROJECTS
 ======
