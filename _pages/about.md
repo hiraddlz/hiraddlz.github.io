@@ -7,43 +7,103 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+PROFESSIONAL SUMMARY
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Machine Learning Engineer with 4+ years of experience in AI-driven solutions, specializing in end-to-end model development, data analysis, and deployment. Proficient in Python, PyTorch, TensorFlow, and cloud platforms like AWS and GCP. Holds an MBA in financial machine learning and excels at translating complex data into actionable strategies while demonstrating strong problem-solving and teamwork skills.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+SKILLS
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Python, R, Julia, SQL, Bash, Git, Docker, Linux, NoSQL, Spark, AWS, GCP
+- PyTorch, Tensorflow, Keras, Scikit-Learn, HuggingFace, LangChain, XGBoost/LightGBM, NLTK, Flask, FastAPI
+- Machine Learning, Deep Learning, Time Series Analysis, Statistics, Computer Vision, Natural Language Processing, MLOps
+- Teamwork, Communication, Problem Solving, Accountability, Time Management, Hard-working, Continuous Learning
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+EXPERIENCE
+======
+* Machine Learning Engineer `|` *Golrang system `|` Tehran, Iran* `|`                                                                                      Apr 2023–May 2024
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+  - LLM-Powered Document Search and Q&A System: Developed a document search solution with OpenAI embeddings and vector databases, improving retrieval speed and relevance through optimized pipelines.
+  - AI-Powered Resume Scraper: Built an automated web app for resume processing, enhancing hiring efficiency by reducing manual screening workload.
+  - Smart Factory Predictive Maintenance: Analyzed IoT sensor data to optimize equipment maintenance schedules, reducing downtime, and created Power BI dashboards visualizing key metrics.
+  - Employee Attrition Prediction: Designed machine learning models to forecast turnover, enabling HR strategies that improved retention and reduced attrition rates.
 
-**Markdown generator**
+* Teaching Assistant `|` *Tarbiat Modares University `|` Tehran, Iran* `|`                                                                                     Jan 2023–Jul 2023
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+  - Delivered instruction on Python programming, deep learning frameworks, and machine learning concepts in the ANN course, facilitated tutorials, and supported students with assignments and projects.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* Data Analyst `|` *Fanap Plus / Gereh `|` Tehran, Iran* `|`                                                                                                         Dec 2022–Mar 2023
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+  - Built and maintained ETL pipelines, managing datasets for business intelligence purposes.
+  - Developed a web-based dashboard to visualize the analysis results, facilitating data-driven decision-making for marketing strategies.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* Teaching Assistant `|` *Sharif University of Technology `|` Tehran, Iran* `|`                                                                             Jan 2022–Jun 2022
+
+  - Collaborated on technical support for blockchain and machine learning projects in the Financial Technologies (FinTech) course, ensuring smooth execution and troubleshooting during coursework. 
+
+EDUCATION
+======
+PhD Candidate in IT Management (On hold after migrating to the U.S.) `|` *Tarbiat Modares University `|` Iran*                   Sep 2022 – 
+
+Research Proposal: Providing an Integrated Approach to Predictive Maintenance Based on Graph Neural Networks
+
+GPA: 3.7/4.0
+
+Master of Business Administration – MBA `|` *Sharif University of Technology `|` Tehran, Iran*                                   Sep 2019 – Sep 2022
+
+Concentration: [How people’s sentiment and attention affect the return of Bitcoin?](https://library.sharif.ir/parvan/resource/501394)
+
+GPA: 3.6/4.0
+
+Bachelor of Science – BS in Civil Engineering `|` *Sharif University of Technology `|` Tehran, Iran*                              Sep 2012 – Feb 2017
+
+GPA: 3.2/4.0
+
+PROJECTS
+======
+[How people’s sentiment and attention affect the return of Bitcoin?](https://library.sharif.ir/parvan/resource/501394) `|` Tehran, Iran                                                      Oct 2021 – Sep 2022
+
+- Analyzed the influence of investor sentiment and attention (Twitter sentiment analysis, Google search trends, …) on Bitcoin returns using machine learning models.
+- Developed predictive models to forecast Bitcoin returns with 62% accuracy, identifying key variables like the Fear and Greed Index.
+- Utilized SHAP model for interpretability, explaining the impact of different variables on Bitcoin returns.
+
+[Financial Econometrics: TSE Investors Sentiment](https://github.com/hiraddlz/MBA-Projects/tree/master/Financial%20econometrics/TSE%20Inverstors%20sentiments) `|` Tehran, Iran                                                                                 Apr 2021 - Sep 2021
+
+- Conducted a study to measure the effect of investors’ sentiments on the return of Tehran Stock Exchange.
+- Implemented the article "Measuring investor sentiment in equity markets" by Bandopadhyaya and Jones (2006) for 398 different stocks.
+
+[Machine Learning in Finance: Bet Sizing & Backtest Methods](https://github.com/hiraddlz/MBA-Projects/tree/master/Machine%20learning%20in%20finance) `|` Tehran, Iran                                                             Apr 2021 - Sep 2021
+
+- investigated the use of algorithmic trading and quantitative finance by implementing chapters 10 & 11 of the book "Advances in Financial Machine Learning" by Marcos Lopez de Prado (2018).
+
+[Investigating the characteristics of social media influencers on uers’ intention to buy](https://www.sid.ir/Fa/Seminar/ViewPaper.aspx?ID=96497) `|` Tehran, Iran                                       Mar 2021
+
+- Conference paper - Case study: Garment industry on instagram
+
+[Fuel Consumption Analysis](https://github.com/hiraddlz/MBA-Projects/tree/master/Business%20analytics) `|` Tehran, Iran                                                                                                                     Oct 2020 - Mar 2021
+
+- Analyzed fuel consumption patterns by crawling data from caranddriver.com and investigating the impact of car specifications.
+
+COURSEWORK
+======
+Artificial Neural Network, Business Intelligence, Cognitive and systems Theories, Machine Learning in Finance, Business Analytics, Econometrics, Corporate Finance, Data Analysis, Computer Programming, Probability and statistics
+
+ACHIEVEMENTS
+======
+- Achieved top 0.34% rank (5/1,465) in the entrance exam for Ph.D. admission
+- Ranked in the top 0.37% (33/8,861) in the university entrance exam for Master’s degree admission
+- Secured a top 0.17% rank (391/229,948) in the national entrance exam for Bachelor’s degree admission
+
+[CERTIFICATIONS](https://www.credly.com/users/hirad-dolatzadeh)
+======
+[TensorFlow: Advanced Techniques](https://www.coursera.org/account/accomplishments/specialization/WE8BKL81B611) `|` DeepLearning.AI `|` 2024
+
+[Custom Models, Layers, and Loss Functions with TensorFlow](https://www.coursera.org/account/accomplishments/verify/NV6V7BT9RDY5) `|` [Custom and Distributed Training with TensorFlow](https://www.coursera.org/account/accomplishments/verify/9SDCKLOSNRIE) `|` [Advanced Computer Vision with TensorFlow](https://www.coursera.org/account/accomplishments/verify/VFCC2SOP4Y0R) `|` [Generative Deep Learning with TensorFlow](https://www.coursera.org/account/accomplishments/verify/LKS3XTHC5PMZ)
+
+[IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/T5L0D1SNYDU6) `|` IBM `|` 2024
+
+[AI Capstone Project with Deep Learning](https://www.credly.com/badges/30173fce-a269-4d49-aaf4-ac9c014cabf6/public_url) `|` [Machine Learning with Python](https://www.credly.com/badges/0c70c00c-726b-490e-b4ad-ab3b7603edb4/public_url) `|` [Introduction to Computer Vision and Image Processing](https://www.credly.com/badges/b9b75365-f308-45c2-b743-d154f82498d9/public_url) `|` [Introduction to Neural Networks and PyTorch](https://www.credly.com/badges/ee996e9c-998d-4b74-85ae-806ee76e8875/public_url) `|` [Building Deep Learning Models with TensorFlow](https://www.credly.com/badges/9ccf078c-08e8-403a-b714-325e3cb28240/public_url) `|` [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/verify/XXCPSF9P5XJW))
+
+[Applied Software Engineering Fundamentals](https://www.coursera.org/account/accomplishments/specialization/FMQDUCYJ0U0P) `|` IBM `|` 2024
+
+[Developing AI Applications with Python and Flask](https://www.coursera.org/account/accomplishments/verify/WHODC7P46VS6) `|` [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.credly.com/badges/0632da84-5b7e-46c5-8898-9d406a3da2ec/public_url) `|` [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/ZF7T3HMNK7PY) `|` [Introduction to Software Engineering](https://www.credly.com/badges/20b10eb1-fadd-4cc6-b263-e96d67070eb4/public_url) `|` [Python for Data Science, AI & Development](https://www.credly.com/badges/44e5e0d8-f6cb-4723-af82-fc77b5f8f936/public_url)
+
