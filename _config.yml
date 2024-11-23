@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Hirad Dolatzadeh"
 title_separator          : "-"
-name                     : &name "Hirad"
+name                     : &name "Hirad Dolatzadeh"
 description              : &description "personal description"
 url                      : https://hiraddlz.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Hirad"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "AI/ML Engineer"
   location         : "San Francisco Bay Area, Ca"
   employer         : "Sharif University of Technology"
   uri              : # URL
@@ -64,9 +64,9 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : "t.me/hirad_d73"
+  telegram         : # "t.me/hirad_d73"
   tumblr           : # Username
-  twitter          : "h1r4d"
+  twitter          : # "h1r4d"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
