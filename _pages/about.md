@@ -19,42 +19,33 @@ SKILLS
 EXPERIENCE
 ======
 * Machine Learning Engineer `|` *Golrang system `|` Tehran, Iran* `|`                                                                                      Apr 2023–May 2024
-
   - LLM-Powered Document Search and Q&A System: Developed a document search solution with OpenAI embeddings and vector databases, improving retrieval speed and relevance through optimized pipelines.
   - AI-Powered Resume Scraper: Built an automated web app for resume processing, enhancing hiring efficiency by reducing manual screening workload.
   - Smart Factory Predictive Maintenance: Analyzed IoT sensor data to optimize equipment maintenance schedules, reducing downtime, and created Power BI dashboards visualizing key metrics.
   - Employee Attrition Prediction: Designed machine learning models to forecast turnover, enabling HR strategies that improved retention and reduced attrition rates.
 
 * Teaching Assistant `|` *Tarbiat Modares University `|` Tehran, Iran* `|`                                                                                     Jan 2023–Jul 2023
-
   - Delivered instruction on Python programming, deep learning frameworks, and machine learning concepts in the ANN course, facilitated tutorials, and supported students with assignments and projects.
 
 * Data Analyst `|` *Fanap Plus / Gereh `|` Tehran, Iran* `|`                                                                                                         Dec 2022–Mar 2023
-
   - Built and maintained ETL pipelines, managing datasets for business intelligence purposes.
   - Developed a web-based dashboard to visualize the analysis results, facilitating data-driven decision-making for marketing strategies.
 
 * Teaching Assistant `|` *Sharif University of Technology `|` Tehran, Iran* `|`                                                                             Jan 2022–Jun 2022
-
   - Collaborated on technical support for blockchain and machine learning projects in the Financial Technologies (FinTech) course, ensuring smooth execution and troubleshooting during coursework. 
 
 EDUCATION
 ======
 * PhD Candidate in IT Management (On hold after migrating to the U.S.) `|` *Tarbiat Modares University `|` Iran* `|`                  Sep 2022 – 
-
   * Research Proposal: Providing an Integrated Approach to Predictive Maintenance Based on Graph Neural Networks
-
   * GPA: 3.7/4.0
 
 * Master of Business Administration – MBA `|` *Sharif University of Technology `|` Tehran, Iran*  `|`                                 Sep 2019 – Sep 2022
-
- * Concentration: [How people’s sentiment and attention affect the return of Bitcoin?](https://library.sharif.ir/parvan/resource/501394)
-
- * GPA: 3.6/4.0
+  * Concentration: [How people’s sentiment and attention affect the return of Bitcoin?](https://library.sharif.ir/parvan/resource/501394)
+  * GPA: 3.6/4.0
 
 * Bachelor of Science – BS in Civil Engineering `|` *Sharif University of Technology `|` Tehran, Iran* `|`                             Sep 2012 – Feb 2017
-
- * GPA: 3.2/4.0
+  * GPA: 3.2/4.0
 
 PROJECTS
 ======
