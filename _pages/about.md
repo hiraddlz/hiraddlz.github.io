@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Machine Learning Engineer with 4+ years of experience in AI-driven solutions, specializing in end-to-end model development, data analysis, and deployment. Proficient in Python, PyTorch, TensorFlow, and cloud platforms like AWS and GCP. Holds an MBA in financial machine learning and excels at translating complex data into actionable strategies while demonstrating strong problem-solving and teamwork skills.
+Machine Learning Engineer with **3+ years** of experience in AI-driven solution development, specializing in end-to-end model design, data analysis, and deployment. Skilled in **Python**, **SQL**, **R** and deep learning frameworks including **PyTorch** and **TensorFlow**. **MBA** from Sharif University of Technology with a proven ability to translate complex data into actionable strategies. Recognized for strong problem-solving abilities and effective teamwork.
 
 SKILLS
 ======
-- Python, R, Julia, SQL, Bash, Git, Docker, Linux, NoSQL, Spark, AWS, GCP
-- PyTorch, Tensorflow, Keras, Scikit-Learn, HuggingFace, LangChain, XGBoost/LightGBM, NLTK, Flask, FastAPI
-- Machine Learning, Deep Learning, Time Series Analysis, Statistics, Computer Vision, Natural Language Processing, MLOps
-- Teamwork, Communication, Problem Solving, Accountability, Time Management, Hard-working, Continuous Learning
+- **Programming & Tools:** Python, R, Julia, Java, SQL, Bash, Git, Docker, Linux, Apache Spark, Databricks, MLflow, NoSQL, Flask, FastAPI, AWS, GCP
+- **Machine Learning & AI Frameworks:** PyTorch, TensorFlow, Keras, Scikit-Learn, HuggingFace, Transformers, XGBoost, LightGBM, LangChain, NLTK
+- **Specializations:** Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Time Series Analysis, Statistics, Predictive Analytics, MLOps
+- **Key Competencies:** Data Wrangling, Feature Engineering, Model Deployment, A/B Testing, ETL Pipeline Development, Data Visualization (Matplotlib, Seaborn, Power BI)
+- **Soft Skills:** Team Collaboration, Communication, Problem-Solving, Accountability, Continuous Learning, Time Management
 
 EXPERIENCE
 ======
