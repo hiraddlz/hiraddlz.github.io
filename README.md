@@ -1,6 +1,6 @@
 PROFESSIONAL SUMMARY
 ======
-Machine Learning Engineer with 4+ years of experience in AI-driven solutions, specializing in end-to-end model development, data analysis, and deployment. Proficient in Python, PyTorch, TensorFlow, and cloud platforms like AWS and GCP. Holds an MBA in financial machine learning and excels at translating complex data into actionable strategies while demonstrating strong problem-solving and teamwork skills.
+Experienced Machine Learning Engineer with specialization in AI-driven solution development, specializing in end-to-end model design, data analysis, and deployment. Skilled in **Python**, **SQL**, **R** and deep learning frameworks including **PyTorch** and **TensorFlow**. **MBA** from Sharif University of Technology with a proven ability to translate complex data into actionable strategies. Recognized for strong problem-solving abilities and effective teamwork.
 
 SKILLS
 ======
