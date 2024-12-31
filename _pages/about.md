@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Experienced Machine Learning Engineer with specialization in AI-driven solution development, specializing in end-to-end model design, data analysis, and deployment. Skilled in **Python**, **SQL**, **R** and deep learning frameworks including **PyTorch** and **ensorFlow**. **MBA** from Sharif University of Technology with a proven ability to translate complex data into actionable strategies. Recognized for strong problem-solving abilities and effective teamwork.
+Experienced Machine Learning Engineer with specialization in AI-driven solution development, specializing in end-to-end model design, data analysis, and deployment. Skilled in **Python**, **SQL**, **R** and deep learning frameworks including **PyTorch** and **TensorFlow**. **MBA** from Sharif University of Technology with a proven ability to translate complex data into actionable strategies. Recognized for strong problem-solving abilities and effective teamwork.
 
 SKILLS
 ======
@@ -19,7 +19,7 @@ SKILLS
 
 EXPERIENCE
 ======
-* Machine Learning Engineer `|` *Golrang system `|` Tehran, Iran* `|`                                                                                      Apr 2023–May 2024
+* Machine Learning Engineer \| *Golrang system `|` Tehran, Iran* `|`                                                                                      Apr 2023–May 2024
   - LLM-Powered Document Search and Q&A System: Developed a document search solution with OpenAI embeddings and vector databases, improving retrieval speed and relevance through optimized pipelines.
   - AI-Powered Resume Scraper: Built an automated web app for resume processing, enhancing hiring efficiency by reducing manual screening workload.
   - Smart Factory Predictive Maintenance: Analyzed IoT sensor data to optimize equipment maintenance schedules, reducing downtime, and created Power BI dashboards visualizing key metrics.
