@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Machine Learning Engineer with **3+ years** of experience in AI-driven solution development, specializing in end-to-end model design, data analysis, and deployment. Skilled in **Python**, **SQL**, **R** and deep learning frameworks including **PyTorch** and **TensorFlow**. **MBA** from Sharif University of Technology with a proven ability to translate complex data into actionable strategies. Recognized for strong problem-solving abilities and effective teamwork.
+Experienced Machine Learning Engineer with specialization in AI-driven solution development, specializing in end-to-end model design, data analysis, and deployment. Skilled in **Python**, **SQL**, **R** and deep learning frameworks including **PyTorch** and **ensorFlow**. **MBA** from Sharif University of Technology with a proven ability to translate complex data into actionable strategies. Recognized for strong problem-solving abilities and effective teamwork.
 
 SKILLS
 ======
@@ -50,7 +50,7 @@ EDUCATION
 
 PROJECTS
 ======
-[How people’s sentiment and attention affect the return of Bitcoin?](https://library.sharif.ir/parvan/resource/501394) `|` Tehran, Iran `|`                                                     Oct 2021 – Sep 2022
+[How people’s sentiment and attention affect the return of Bitcoin?](https://library.sharif.ir/parvan/resource/501394/) `|` Tehran, Iran `|`                                                     Oct 2021 – Sep 2022
 
 - Analyzed the influence of investor sentiment and attention (Twitter sentiment analysis, Google search trends, …) on Bitcoin returns using machine learning models.
 - Developed predictive models to forecast Bitcoin returns with 62% accuracy, identifying key variables like the Fear and Greed Index.
