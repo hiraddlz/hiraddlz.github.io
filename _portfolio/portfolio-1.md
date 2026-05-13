@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## AI Alchemy – Open-Source AI Toolbox
-**Dec 2024 – Mar 2025** | [Live Demo](https://github.com/hiraddlz/ai-alchemy)
+**Dec 2024 – Mar 2025** | [GitHub](https://github.com/hiraddlz/ai-alchemy) | [Live Demo](https://ai-alchemy.streamlit.app/)
 
 A comprehensive suite of AI-powered productivity tools designed to make AI accessible to everyone.
 

@@ -18,12 +18,12 @@ SKILLS
 
 EXPERIENCE
 ======
-* Data Scientist - Research Data Specialist II \| *California Department of Public Health* \|                                                                                         Sep 2025 – Present
+* Data Scientist - Research Data Specialist II \| *[California Department of Public Health](https://www.cdph.ca.gov/)* \|                                                                                         Sep 2025 – Present
   - Migrate SAS Viya code to Python and Databricks, enhancing performance and maintainability
   - Build and maintain Tableau/Power BI dashboards for public health analytics and reporting
   - Collaborate with cross-functional teams to build and deploy models into production
 
-* Machine Learning Engineer \| *Golrang system* \|                                                                                      Apr 2023–May 2024
+* Machine Learning Engineer \| *[Golrang system](https://en.golrang.com/companies/golrang-system)* \|                                                                                      Apr 2023–May 2024
   - LLM-Powered Document Search & Chatbot System: Led a team to develop a document query solution with OpenAI embeddings, RAG techniques, vector databases and LLMs, improving retrieval speed and query resolution through optimized pipelines.
   - Smart Factory Predictive Maintenance: Analyzed IoT sensor big data to optimize equipment maintenance schedules, reducing downtime, and created BI dashboards visualizing key metrics.
   - AI-Powered Resume Scraper: Built an automated API and web app for OCR resume processing, enhancing hiring efficiency by reducing manual screening workload.
@@ -56,12 +56,12 @@ EDUCATION
   * GPA: 3.49/4.0
 
 PROJECTS
-======[AI Alchemy – Open-Source AI Toolbox](https://github.com/hiraddlz/ai-alchemy) \| Live Demo \|                                                                                                 Dec 2024 – Mar 2025
+======[AI Alchemy – Open-Source AI Toolbox](https://github.com/hiraddlz/ai-alchemy) \| [Live Demo](https://ai-alchemy.streamlit.app/) \|                                                                                                 Dec 2024 – Mar 2025
 
 - Developed a suite of 10+ AI-powered productivity tools like YouTube Video Chat, Resume Matcher, IELTS Writing Examiner, Proofreader, File Q&A, etc.
 - Integrated cutting-edge AI frameworks like OpenAI API, LangGraph, Transformers, Vector Databases, and Streamlit to create an intuitive and scalable platform.
 - Designed and deployed using GitHub, Python, and Streamlit Cloud, ensuring free and accessible usage.
-[How people’s sentiment and attention affect the return of Bitcoin?](https://library.sharif.ir/parvan/resource/501394/) \| Tehran, Iran \|                                                     Oct 2021 – Sep 2022
+[How people's sentiment and attention affect the return of Bitcoin?](https://github.com/hiraddlz/Bitcoin-sentiment-analysis) \| Tehran, Iran \|                                                     Oct 2021 – Sep 2022
 
 - Analyzed the influence of investor sentiment and attention (Twitter sentiment analysis, Google search trends, …) on Bitcoin returns using machine learning models.
 - Developed predictive models to forecast Bitcoin returns with 62% accuracy, identifying key variables like the Fear and Greed Index.
@@ -112,4 +112,3 @@ ACHIEVEMENTS
 
 **Applied Software Engineering Fundamentals** \| IBM \| 2024
 - Hands-on Introduction to Linux Commands and Shell Scripting \| Getting Started with Git and GitHub \| Introduction to Software Engineering
-

@@ -43,14 +43,14 @@ Results-driven AI/ML professional with 3+ years of experience in developing and 
 ## EXPERIENCE
 
 ### Data Scientist - Research Data Specialist II
-**California Department of Public Health** | Sep 2025 – Present
+**[California Department of Public Health](https://www.cdph.ca.gov/)** | Sep 2025 – Present
 
 - Migrate SAS Viya code to Python and Databricks, enhancing performance and maintainability
 - Build and maintain Tableau/Power BI dashboards for public health analytics and reporting
 - Collaborate with cross-functional teams to build and deploy models into production
 
 ### Machine Learning Engineer
-**Golrang system** | Apr 2023 – May 2024
+**[Golrang system](https://en.golrang.com/companies/golrang-system)** | Apr 2023 – May 2024
 
 - **LLM-Powered Document Search & Chatbot System:** Led a team to develop a document query solution with OpenAI embeddings, RAG techniques, vector databases and LLMs, improving retrieval speed and query resolution through optimized pipelines.
 - **Smart Factory Predictive Maintenance:** Analyzed IoT sensor big data to optimize equipment maintenance schedules, reducing downtime, and created BI dashboards visualizing key metrics.
@@ -95,27 +95,27 @@ Results-driven AI/ML professional with 3+ years of experience in developing and 
 
 ## PROJECTS
 
-**AI Alchemy – Open-Source AI Toolbox** | Live Demo | Dec 2024 – Mar 2025
+**[AI Alchemy – Open-Source AI Toolbox](https://github.com/hiraddlz/ai-alchemy)** | [Live Demo](https://ai-alchemy.streamlit.app/) | Dec 2024 – Mar 2025
 - Developed a suite of 10+ AI-powered productivity tools like YouTube Video Chat, Resume Matcher, IELTS Writing Examiner, Proofreader, File Q&A, etc.
 - Integrated cutting-edge AI frameworks like OpenAI API, LangGraph, Transformers, Vector Databases, and Streamlit to create an intuitive and scalable platform.
 - Designed and deployed using GitHub, Python, and Streamlit Cloud, ensuring free and accessible usage.
 
-**How people's sentiment and attention affect the return of Bitcoin?** | Sharif University of Technology | Oct 2021 – Sep 2022
+**[How people's sentiment and attention affect the return of Bitcoin?](https://github.com/hiraddlz/Bitcoin-sentiment-analysis)** | Sharif University of Technology | Oct 2021 – Sep 2022
 - Analyzed the influence of investor sentiment and attention (Twitter sentiment analysis, Google search trends, …) on Bitcoin returns using NLP and Deep Learning models using TensorFlow and Keras.
 - Developed predictive models to forecast Bitcoin returns with 62% accuracy, identifying key variables like the Fear and Greed Index.
 - Utilized eXplainable AI SHAP model for interpretability, explaining the impact of different variables on Bitcoin returns.
 
-**Financial Econometrics: TSE Investors Sentiment** | Sharif University of Technology | Apr 2021 - Sep 2021
+**[Financial Econometrics: TSE Investors Sentiment](https://github.com/hiraddlz/MBA-Projects/tree/master/Financial%20econometrics/TSE%20Inverstors%20sentiments)** | Sharif University of Technology | Apr 2021 - Sep 2021
 - Conducted a study to measure the effect of investors' sentiments on the return of Tehran Stock Exchange.
 - Implemented the article "Measuring investor sentiment in equity markets" by Bandopadhyaya and Jones (2006) for 398 different stocks.
 
-**Machine Learning in Finance: Bet Sizing & Backtest Methods** | Sharif University of Technology | Apr 2021 - Sep 2021
+**[Machine Learning in Finance: Bet Sizing & Backtest Methods](https://github.com/hiraddlz/MBA-Projects/tree/master/Machine%20learning%20in%20finance)** | Sharif University of Technology | Apr 2021 - Sep 2021
 - Investigated the use of algorithmic trading and quantitative finance by implementing chapters 10 & 11 of the book "Advances in Financial Machine Learning" by Marcos Lopez de Prado (2018).
 
 **Investigating the characteristics of social media influencers on users' intention to buy** | Sharif University of Technology | Mar 2021
 - Conference paper - Case study: Garment industry on Instagram
 
-**Fuel Consumption Analysis** | Sharif University of Technology | Oct 2020 - Mar 2021
+**[Fuel Consumption Analysis](https://github.com/hiraddlz/MBA-Projects/tree/master/Business%20analytics)** | Sharif University of Technology | Oct 2020 - Mar 2021
 - Analyzed fuel consumption patterns by crawling data from caranddriver.com and investigating the impact of car specifications in R.
 
 ---
@@ -136,76 +136,21 @@ Artificial Neural Network, Business Intelligence, Cognitive and Systems Theories
 
 ## CERTIFICATIONS
 
-**DataAI (DataX) – Expert Series** | CompTiya | 2026
+**[DataAI (DataX) – Expert Series](https://www.credly.com/badges/01c443d1-eefc-4c21-8eaf-f899edfa8567)** | CompTiya | 2026
 - 5+ years recommended experience level | Python, ML, deep learning, NLP, MLOps | Statistical analysis, predictive modeling
 
-**Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing with Python** | Cornell University (eCornell) | 2025
+**[Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing with Python](https://mycredentials.ecornell.cornell.edu/credential/iFLjGuaCfs)** | Cornell University (eCornell) | 2025
 
-**IBM Generative AI Engineering Professional Certificate** | IBM | 2025
-- Generative AI Advance Fine-Tuning for LLMs | Generative AI: Prompt Engineering Basics | Fundamentals of AI Agents Using RAG and LangChain | Project: Generative AI Applications with RAG and LangChain | Generative AI Language Modeling with Transformers
+**[IBM Generative AI Engineering Professional Certificate](https://mycredentials.ecornell.cornell.edu/credential/FZGZVvtdlI)** | IBM | 2025
+- [Generative AI Advance Fine-Tuning for LLMs](https://mycredentials.ecornell.cornell.edu/credential/SSwAjPeHll) | [Generative AI: Prompt Engineering Basics](https://mycredentials.ecornell.cornell.edu/credential/OgYtnbPaxg) | Fundamentals of AI Agents Using RAG and LangChain | Project: Generative AI Applications with RAG and LangChain | Generative AI Language Modeling with Transformers
 
-**TensorFlow: Advanced Techniques** | DeepLearning.AI | 2024
-- Custom and Distributed Training with TensorFlow | Advanced Computer Vision with TensorFlow | Generative Deep Learning with TensorFlow
+**[TensorFlow: Advanced Techniques](https://www.coursera.org/account/accomplishments/specialization/WL6AL6PU56V6)** | DeepLearning.AI | 2024
+- [Custom and Distributed Training with TensorFlow](https://www.coursera.org/account/accomplishments/verify/9SDCKLOSNRIE) | [Advanced Computer Vision with TensorFlow](https://www.coursera.org/account/accomplishments/verify/VFCC2SOP4Y0R) | [Generative Deep Learning with TensorFlow](https://www.coursera.org/account/accomplishments/verify/LKS3XTHC5PMZ)
 
-**IBM AI Engineering** | IBM | 2024
-- Introduction to Neural Networks and PyTorch | Building Deep Learning Models with TensorFlow | Introduction to Deep Learning & Neural Networks with Keras
+**[IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/T5L0D1SNYDU6)** | IBM | 2024
+- [Introduction to Neural Networks and PyTorch](https://www.credly.com/badges/ee996e9c-998d-4b74-85ae-806ee76e8875/public_url) | [Building Deep Learning Models with TensorFlow](https://www.credly.com/badges/9ccf078c-08e8-403a-b714-325e3cb28240/public_url) | [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/verify/XXCPSF9P5XJW)
 
-**Applied Software Engineering Fundamentals** | IBM | 2024
-- Hands-on Introduction to Linux Commands and Shell Scripting | Getting Started with Git and GitHub | Introduction to Software Engineering
-
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
---->
+**[Applied Software Engineering Fundamentals](https://www.coursera.org/account/accomplishments/specialization/FMQDUCYJ0U0P)** | IBM | 2024
+- [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.credly.com/badges/0632da84-5b7e-46c5-8898-9d406a3da2ec/public_url) | [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/ZF7T3HMNK7PY) | [Introduction to Software Engineering](https://www.credly.com/badges/20b10eb1-fadd-4cc6-b263-e96d67070eb4/public_url)
 
 
