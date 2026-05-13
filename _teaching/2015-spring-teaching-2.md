@@ -1,20 +1,32 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant - Financial Technologies (FinTech)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate Course"
+permalink: /teaching/2022-spring-fintech
+venue: "Sharif University of Technology"
+date: 2022-01-01
+location: "Tehran, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Financial Technologies (FinTech) Teaching Assistant
+**Sharif University of Technology** | Jan 2022 – Jun 2022
 
-Heading 1
-======
+### Course Description
+Advanced course exploring the intersection of finance, technology, and machine learning. Covers blockchain, cryptocurrency, algorithmic trading, and AI applications in finance.
 
-Heading 2
-======
+### Responsibilities
+- Provided technical support for student projects in blockchain and machine learning
+- Facilitated blockchain implementation projects and cryptocurrency analysis
+- Supported advanced machine learning projects in financial domain
+- Troubleshooted technical issues and provided guidance on best practices
+- Ensured smooth execution of course projects and coursework
 
-Heading 3
-======
+### Topics Covered
+- Blockchain technology and cryptocurrency fundamentals
+- Machine learning applications in financial markets
+- Smart contracts and decentralized finance (DeFi)
+- Quantitative finance and algorithmic trading
+- Risk assessment and financial modeling
+
+### Learning Outcomes
+Students developed practical skills in applying cutting-edge technologies to solve real-world financial problems and understand the technology landscape transforming the financial industry.

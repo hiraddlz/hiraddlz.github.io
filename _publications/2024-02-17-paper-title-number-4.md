@@ -1,13 +1,23 @@
 ---
-title: "Paper Title Number 4"
+title: "Investigating the Characteristics of Social Media Influencers on Users' Intention to Buy"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2021-03-01-social-media-influencers
+excerpt: 'Conference paper on social media influencers and consumer behavior.'
+date: 2021-03-01
+venue: 'SID Conference'
+paperurl: 'https://www.sid.ir/Fa/Seminar/ViewPaper.aspx?ID=96497'
+citation: 'Dolatzadeh, H. (2021). &quot;Investigating the Characteristics of Social Media Influencers on Users&apos; Intention to Buy.&quot; <i>SID Conference</i>. Case Study: Garment Industry on Instagram.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This conference paper investigates the impact of social media influencer characteristics on consumer purchasing behavior. The case study focuses on the garment industry and purchases made through Instagram influencers.
+
+**Key Research Areas:**
+- Social media influencer characteristics and their influence on consumer behavior
+- E-commerce dynamics in the garment industry
+- Instagram as a marketing and sales channel
+
+**Methodology:**
+- Qualitative and quantitative analysis of influencer-consumer interactions
+- Consumer survey data and purchase behavior tracking
+- Statistical analysis of conversion metrics and engagement rates

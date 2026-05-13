@@ -7,49 +7,60 @@ redirect_from:
   - /about.html
 ---
 
-Experienced Machine Learning Engineer with specialization in AI-driven solution development, specializing in end-to-end model design, data analysis, and deployment. Skilled in **Python**, **SQL**, **R** and deep learning frameworks including **PyTorch** and **TensorFlow**. **MBA** from Sharif University of Technology with a proven ability to translate complex data into actionable strategies. Recognized for strong problem-solving abilities and effective teamwork.
+Results-driven **AI/ML professional** with 3+ years of experience developing and deploying scalable machine learning solutions. Specialized in **Generative AI** and **predictive modeling**, with technical proficiency in **PyTorch**, **Keras**, and **AWS**. Combines hands-on engineering expertise with strategic business insights from an **MBA (GPA: 4.0)** from Sharif University of Technology. Certified in **AI (Cornell)** and **Generative AI Engineering**. Proven track record of delivering end-to-end ML solutions that align technical performance with business impact.
 
 SKILLS
 ======
-- **Programming & Tools:** Python, R, Julia, Java, SQL, Bash, Git, Docker, Linux, Apache Spark, Databricks, MLflow, NoSQL, Flask, FastAPI, AWS, GCP
-- **Machine Learning & AI Frameworks:** PyTorch, TensorFlow, Keras, Scikit-Learn, HuggingFace, Transformers, XGBoost, LightGBM, LangChain, NLTK
-- **Specializations:** Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Time Series Analysis, Statistics, Predictive Analytics, MLOps
-- **Key Competencies:** Data Wrangling, Feature Engineering, Model Deployment, A/B Testing, ETL Pipeline Development, Data Visualization (Matplotlib, Seaborn, Power BI)
-- **Soft Skills:** Team Collaboration, Communication, Problem-Solving, Accountability, Continuous Learning, Time Management
+- **Programming & Tools:** Python, SQL, R, Git, Docker, Linux, AWS, MLflow, Databricks, Airflow, FastAPI, Flask, Power BI
+- **ML/DL Frameworks:** PyTorch, TensorFlow, Keras, OpenCV, Scikit-Learn, HuggingFace, LangChain, XGBoost/LightGBM, NLTK
+- **Core Competencies:** Machine Learning, Deep Learning, MLOps, Natural Language Processing, Generative AI
+- **Soft Skills:** Teamwork, Communication, Problem Solving, Accountability, Time Management, Continuous Learning
 
 EXPERIENCE
 ======
-* Machine Learning Engineer \| *Golrang system \| Tehran, Iran* \|                                                                                      Apr 2023–May 2024
-  - LLM-Powered Document Search and Q&A System: Developed a document search solution with OpenAI embeddings and vector databases, improving retrieval speed and relevance through optimized pipelines.
-  - AI-Powered Resume Scraper: Built an automated web app for resume processing, enhancing hiring efficiency by reducing manual screening workload.
-  - Smart Factory Predictive Maintenance: Analyzed IoT sensor data to optimize equipment maintenance schedules, reducing downtime, and created Power BI dashboards visualizing key metrics.
+* Data Scientist - Research Data Specialist II \| *California Department of Public Health* \|                                                                                         Sep 2025 – Present
+  - Migrate SAS Viya code to Python and Databricks, enhancing performance and maintainability
+  - Build and maintain Tableau/Power BI dashboards for public health analytics and reporting
+  - Collaborate with cross-functional teams to build and deploy models into production
+
+* Machine Learning Engineer \| *Golrang system* \|                                                                                      Apr 2023–May 2024
+  - LLM-Powered Document Search & Chatbot System: Led a team to develop a document query solution with OpenAI embeddings, RAG techniques, vector databases and LLMs, improving retrieval speed and query resolution through optimized pipelines.
+  - Smart Factory Predictive Maintenance: Analyzed IoT sensor big data to optimize equipment maintenance schedules, reducing downtime, and created BI dashboards visualizing key metrics.
+  - AI-Powered Resume Scraper: Built an automated API and web app for OCR resume processing, enhancing hiring efficiency by reducing manual screening workload.
   - Employee Attrition Prediction: Designed machine learning models to forecast turnover, enabling HR strategies that improved retention and reduced attrition rates.
 
-* Teaching Assistant \| *Tarbiat Modares University \| Tehran, Iran* \|                                                                                     Jan 2023–Jul 2023
-  - Delivered instruction on Python programming, deep learning frameworks, and machine learning concepts in the ANN course, facilitated tutorials, and supported students with assignments and projects.
-
-* Data Analyst \| *Fanap Plus / Gereh \| Tehran, Iran* \|                                                                                                         Dec 2022–Mar 2023
+* Machine Learning Engineer \| *Fanap Plus / Gereh* \|                                                                                                         Dec 2021 – Mar 2023
   - Built and maintained ETL pipelines, managing datasets for business intelligence purposes.
-  - Developed a web-based dashboard to visualize the analysis results, facilitating data-driven decision-making for marketing strategies.
+  - Developed a web-based dashboard to visualize analysis results and KPIs, facilitating data-driven decision-making for marketing strategies.
+  - Designed and executed surveys, conducted A/B testing for marketing research, and analyzed results to optimize campaign strategies and improve customer engagement.
 
-* Teaching Assistant \| *Sharif University of Technology \| Tehran, Iran* \|                                                                             Jan 2022–Jun 2022
-  - Collaborated on technical support for blockchain and machine learning projects in the Financial Technologies (FinTech) course, ensuring smooth execution and troubleshooting during coursework. 
+* Teaching Assistant in AI/ML \| *Tarbiat Modares University* \|                                                                                     Jan 2023–Jul 2023
+  - Delivered instruction on Python, deep learning frameworks, and ML/DL concepts (e.g., RNN, GAN, LLMs) in the ANN course.
+
+* Teaching Assistant \| *Sharif University of Technology* \|                                                                             Jan 2022–Jun 2022
+  - Supported students for blockchain and machine learning projects in the Financial Technologies course. 
 
 EDUCATION
 ======
-* PhD Candidate in IT Management (On hold after migrating to the U.S.) \| *Tarbiat Modares University \| Iran* \|                  Sep 2022 – 
-  * Research Proposal: Providing an Integrated Approach to Predictive Maintenance Based on Graph Neural Networks
-  * GPA: 3.7/4.0
+* Data Science and Data Analytics Certificate Program \| *UCSC Silicon Valley Extension* \|                                 Feb 2025 – Nov 2025
+  * Focused on developing practical skills in Big Data processing, data engineering, cloud computing, and DevOps.
+  * Exploring Hadoop, Apache Spark, Kafka, Hive, and NoSQL databases (DynamoDB, Cassandra, HBase, Neo4j)
+  * Developing proficiency in DevOps tools: Docker, Kubernetes, GoCD, FluxCD, and infrastructure-as-code practices.
 
-* Master of Business Administration – MBA \| *Sharif University of Technology \| Tehran, Iran*  \|                                 Sep 2019 – Sep 2022
-  * Concentration: [How people’s sentiment and attention affect the return of Bitcoin?](https://library.sharif.ir/parvan/resource/501394)
-  * GPA: 3.6/4.0
+* Artificial Intelligence Program (AI360) \| *Cornell University (eCornell Certificate)* \|                                       Oct 2024 – Apr 2025
 
-* Bachelor of Science – BS in Civil Engineering \| *Sharif University of Technology \| Tehran, Iran* \|                             Sep 2012 – Feb 2017
-  * GPA: 3.2/4.0
+* Master of Business Administration – MBA \| *Sharif University of Technology* \|                                 Sep 2019 – Sep 2022
+  * Concentration: Business Analytics, GPA: 4.0/4.0
+
+* Bachelor of Science – BS in Civil Engineering \| *Sharif University of Technology* \|                             Sep 2012 – Feb 2017
+  * GPA: 3.49/4.0
 
 PROJECTS
-======
+======[AI Alchemy – Open-Source AI Toolbox](https://github.com/hiraddlz/ai-alchemy) \| Live Demo \|                                                                                                 Dec 2024 – Mar 2025
+
+- Developed a suite of 10+ AI-powered productivity tools like YouTube Video Chat, Resume Matcher, IELTS Writing Examiner, Proofreader, File Q&A, etc.
+- Integrated cutting-edge AI frameworks like OpenAI API, LangGraph, Transformers, Vector Databases, and Streamlit to create an intuitive and scalable platform.
+- Designed and deployed using GitHub, Python, and Streamlit Cloud, ensuring free and accessible usage.
 [How people’s sentiment and attention affect the return of Bitcoin?](https://library.sharif.ir/parvan/resource/501394/) \| Tehran, Iran \|                                                     Oct 2021 – Sep 2022
 
 - Analyzed the influence of investor sentiment and attention (Twitter sentiment analysis, Google search trends, …) on Bitcoin returns using machine learning models.
@@ -85,15 +96,20 @@ ACHIEVEMENTS
 
 [CERTIFICATIONS](https://www.credly.com/users/hirad-dolatzadeh)
 ======
-[**TensorFlow: Advanced Techniques**](https://www.coursera.org/account/accomplishments/specialization/WE8BKL81B611) \| DeepLearning.AI \| 2024
+**DataAI (DataX) – Expert Series** \| CompTIA \| 2026
+- 5+ years recommended experience level \| Python, ML, deep learning, NLP, MLOps \| Statistical analysis, predictive modeling
 
-[Custom Models, Layers, and Loss Functions with TensorFlow](https://www.coursera.org/account/accomplishments/verify/NV6V7BT9RDY5) \| [Custom and Distributed Training with TensorFlow](https://www.coursera.org/account/accomplishments/verify/9SDCKLOSNRIE) \| [Advanced Computer Vision with TensorFlow](https://www.coursera.org/account/accomplishments/verify/VFCC2SOP4Y0R) \| [Generative Deep Learning with TensorFlow](https://www.coursera.org/account/accomplishments/verify/LKS3XTHC5PMZ)
+**Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing with Python** \| Cornell University (eCornell) \| 2025
 
-[**IBM AI Engineering**](https://www.coursera.org/account/accomplishments/specialization/T5L0D1SNYDU6) \| IBM \| 2024
+**IBM Generative AI Engineering Professional Certificate** \| IBM \| 2025
+- Generative AI Advance Fine-Tuning for LLMs \| Generative AI: Prompt Engineering Basics \| Fundamentals of AI Agents Using RAG and LangChain \| Project: Generative AI Applications with RAG and LangChain \| Generative AI Language Modeling with Transformers
 
-[AI Capstone Project with Deep Learning](https://www.credly.com/badges/30173fce-a269-4d49-aaf4-ac9c014cabf6/public_url) \| [Machine Learning with Python](https://www.credly.com/badges/0c70c00c-726b-490e-b4ad-ab3b7603edb4/public_url) \| [Introduction to Computer Vision and Image Processing](https://www.credly.com/badges/b9b75365-f308-45c2-b743-d154f82498d9/public_url) \| [Introduction to Neural Networks and PyTorch](https://www.credly.com/badges/ee996e9c-998d-4b74-85ae-806ee76e8875/public_url) \| [Building Deep Learning Models with TensorFlow](https://www.credly.com/badges/9ccf078c-08e8-403a-b714-325e3cb28240/public_url) \| [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/verify/XXCPSF9P5XJW))
+**TensorFlow: Advanced Techniques** \| DeepLearning.AI \| 2024
+- Custom and Distributed Training with TensorFlow \| Advanced Computer Vision with TensorFlow \| Generative Deep Learning with TensorFlow
 
-[**Applied Software Engineering Fundamentals**](https://www.coursera.org/account/accomplishments/specialization/FMQDUCYJ0U0P) \| IBM \| 2024
+**IBM AI Engineering** \| IBM \| 2024
+- Introduction to Neural Networks and PyTorch \| Building Deep Learning Models with TensorFlow \| Introduction to Deep Learning & Neural Networks with Keras
 
-[Developing AI Applications with Python and Flask](https://www.coursera.org/account/accomplishments/verify/WHODC7P46VS6) \| [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.credly.com/badges/0632da84-5b7e-46c5-8898-9d406a3da2ec/public_url) \| [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/ZF7T3HMNK7PY) \| [Introduction to Software Engineering](https://www.credly.com/badges/20b10eb1-fadd-4cc6-b263-e96d67070eb4/public_url) \| [Python for Data Science, AI & Development](https://www.credly.com/badges/44e5e0d8-f6cb-4723-af82-fc77b5f8f936/public_url)
+**Applied Software Engineering Fundamentals** \| IBM \| 2024
+- Hands-on Introduction to Linux Commands and Shell Scripting \| Getting Started with Git and GitHub \| Introduction to Software Engineering
 
