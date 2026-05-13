@@ -17,8 +17,8 @@ redirect_from:
 - Location: Sacramento, CA
 - GitHub: [github.com/hiraddlz](https://github.com/hiraddlz)
 - LinkedIn: [linkedin.com/in/hirad-dolatzadeh](https://www.linkedin.com/in/hirad-dolatzadeh/)
+- Work Authorization: Fully authorized to work in the U.S. | No visa sponsorship required | Open to relocation
 
-**Work Authorization:** Fully Authorized to Work | No Visa Sponsorship Required | Open to Relocation
 
 ---
 
@@ -78,12 +78,12 @@ Results-driven AI/ML professional with 3+ years of experience in developing and 
 
 ## EDUCATION
 
-**Data Science and Data Analytics Certificate Program** | UCSC Silicon Valley Extension | Feb 2025 – Nov 2025
+**[Data Science and Data Analytics Certificate Program](https://www.credly.com/badges/01c443d1-eefc-4c21-8eaf-f899edfa8567)** | UCSC Silicon Valley Extension | Feb 2025 – Nov 2025
 - Focused on developing practical skills in Big Data processing, data engineering, cloud computing, and DevOps
 - Exploring Hadoop, Apache Spark, Kafka, Hive, and NoSQL databases (DynamoDB, Cassandra, HBase, Neo4j)
 - Developing proficiency in DevOps tools: Docker, Kubernetes, GoCD, FluxCD, and infrastructure-as-code practices
 
-**Artificial Intelligence Program (AI360)** | Cornell University (eCornell Certificate) | Oct 2024 – Apr 2025
+**[Artificial Intelligence Program (AI360)](https://mycredentials.ecornell.cornell.edu/credential/iFLjGuaCfs)** \| Cornell University (eCornell Certificate) \| Oct 2024 – Apr 2025
 
 **Master of Business Administration – Business Analytics** | Sharif University of Technology | Sep 2019 – Sep 2022
 - GPA: 4.0/4.0
@@ -95,7 +95,7 @@ Results-driven AI/ML professional with 3+ years of experience in developing and 
 
 ## PROJECTS
 
-**[AI Alchemy – Open-Source AI Toolbox](https://github.com/hiraddlz/ai-alchemy)** | [Live Demo](https://ai-alchemy.streamlit.app/) | Dec 2024 – Mar 2025
+**[AI Alchemy – Open-Source AI Toolbox](https://github.com/hiraddlz/ai-alchemy)** | Dec 2024 – Mar 2025
 - Developed a suite of 10+ AI-powered productivity tools like YouTube Video Chat, Resume Matcher, IELTS Writing Examiner, Proofreader, File Q&A, etc.
 - Integrated cutting-edge AI frameworks like OpenAI API, LangGraph, Transformers, Vector Databases, and Streamlit to create an intuitive and scalable platform.
 - Designed and deployed using GitHub, Python, and Streamlit Cloud, ensuring free and accessible usage.
@@ -136,21 +136,21 @@ Artificial Neural Network, Business Intelligence, Cognitive and Systems Theories
 
 ## CERTIFICATIONS
 
-**[DataAI (DataX) – Expert Series](https://www.credly.com/badges/01c443d1-eefc-4c21-8eaf-f899edfa8567)** | CompTiya | 2026
-- 5+ years recommended experience level | Python, ML, deep learning, NLP, MLOps | Statistical analysis, predictive modeling
+**[DataAI (DataX) – Expert Series](https://www.credly.com/badges/70642d7b-e849-45a1-99c6-02a74c62a593)** \| CompTiya \| 2026
+- 5+ years recommended experience level \| Python, ML, deep learning, NLP, MLOps \| Statistical analysis, predictive modeling
 
-**[Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing with Python](https://mycredentials.ecornell.cornell.edu/credential/iFLjGuaCfs)** | Cornell University (eCornell) | 2025
+**[Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing with Python](https://mycredentials.ecornell.cornell.edu/credential/iFLjGuaCfs)** \| Cornell University (eCornell) \| 2025
 
-**[IBM Generative AI Engineering Professional Certificate](https://mycredentials.ecornell.cornell.edu/credential/FZGZVvtdlI)** | IBM | 2025
-- [Generative AI Advance Fine-Tuning for LLMs](https://mycredentials.ecornell.cornell.edu/credential/SSwAjPeHll) | [Generative AI: Prompt Engineering Basics](https://mycredentials.ecornell.cornell.edu/credential/OgYtnbPaxg) | Fundamentals of AI Agents Using RAG and LangChain | Project: Generative AI Applications with RAG and LangChain | Generative AI Language Modeling with Transformers
+**[IBM Generative AI Engineering Professional Certificate](https://mycredentials.ecornell.cornell.edu/credential/FZGZVvtdlI)** \| IBM \| 2025
+- [Generative AI Advance Fine-Tuning for LLMs](https://mycredentials.ecornell.cornell.edu/credential/SSwAjPeHll) \| [Generative AI: Prompt Engineering Basics](https://mycredentials.ecornell.cornell.edu/credential/OgYtnbPaxg) \| Fundamentals of AI Agents Using RAG and LangChain \| Project: Generative AI Applications with RAG and LangChain \| Generative AI Language Modeling with Transformers
 
-**[TensorFlow: Advanced Techniques](https://www.coursera.org/account/accomplishments/specialization/WL6AL6PU56V6)** | DeepLearning.AI | 2024
-- [Custom and Distributed Training with TensorFlow](https://www.coursera.org/account/accomplishments/verify/9SDCKLOSNRIE) | [Advanced Computer Vision with TensorFlow](https://www.coursera.org/account/accomplishments/verify/VFCC2SOP4Y0R) | [Generative Deep Learning with TensorFlow](https://www.coursera.org/account/accomplishments/verify/LKS3XTHC5PMZ)
+**[TensorFlow: Advanced Techniques](https://www.coursera.org/account/accomplishments/specialization/WL6AL6PU56V6)** \| DeepLearning.AI \| 2024
+- [Custom and Distributed Training with TensorFlow](https://www.coursera.org/account/accomplishments/verify/9SDCKLOSNRIE) \| [Advanced Computer Vision with TensorFlow](https://www.coursera.org/account/accomplishments/verify/VFCC2SOP4Y0R) \| [Generative Deep Learning with TensorFlow](https://www.coursera.org/account/accomplishments/verify/LKS3XTHC5PMZ)
 
-**[IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/T5L0D1SNYDU6)** | IBM | 2024
-- [Introduction to Neural Networks and PyTorch](https://www.credly.com/badges/ee996e9c-998d-4b74-85ae-806ee76e8875/public_url) | [Building Deep Learning Models with TensorFlow](https://www.credly.com/badges/9ccf078c-08e8-403a-b714-325e3cb28240/public_url) | [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/verify/XXCPSF9P5XJW)
+**[IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/T5L0D1SNYDU6)** \| IBM \| 2024
+- [Introduction to Neural Networks and PyTorch](https://www.credly.com/badges/ee996e9c-998d-4b74-85ae-806ee76e8875/public_url) \| [Building Deep Learning Models with TensorFlow](https://www.credly.com/badges/9ccf078c-08e8-403a-b714-325e3cb28240/public_url) \| [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/verify/XXCPSF9P5XJW)
 
-**[Applied Software Engineering Fundamentals](https://www.coursera.org/account/accomplishments/specialization/FMQDUCYJ0U0P)** | IBM | 2024
-- [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.credly.com/badges/0632da84-5b7e-46c5-8898-9d406a3da2ec/public_url) | [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/ZF7T3HMNK7PY) | [Introduction to Software Engineering](https://www.credly.com/badges/20b10eb1-fadd-4cc6-b263-e96d67070eb4/public_url)
+**[Applied Software Engineering Fundamentals](https://www.coursera.org/account/accomplishments/specialization/FMQDUCYJ0U0P)** \| IBM \| 2024
+- [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.credly.com/badges/0632da84-5b7e-46c5-8898-9d406a3da2ec/public_url) \| [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/ZF7T3HMNK7PY) \| [Introduction to Software Engineering](https://www.credly.com/badges/20b10eb1-fadd-4cc6-b263-e96d67070eb4/public_url)
 
 

@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Hirad Dolatzadeh"
   pronouns         : # example: "she/her"  
-  bio              : "AI/ML Professional | 3+ years ML Engineering | Generative AI Specialist | MBA (4.0 GPA)"
+  bio              : "AI/ML Professional | 3+ years ML Engineering | Generative AI Specialist | MBA (4.0 GPA) | Open to Relocation"
   location         : "Sacramento, CA"
   employer         : "California Department of Public Health"
-  uri              : # URL
+  uri              : "https://www.linkedin.com/in/hirad-dolatzadeh/"
   email            : "hirad.dlz@gmail.com" 
 
   # Academic websites
@@ -76,10 +76,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  # books:
+  #   title: 'Books'
+  # manuscripts:
+  #   title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
 

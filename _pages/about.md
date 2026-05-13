@@ -9,6 +9,8 @@ redirect_from:
 
 Results-driven **AI/ML professional** with 3+ years of experience developing and deploying scalable machine learning solutions. Specialized in **Generative AI** and **predictive modeling**, with technical proficiency in **PyTorch**, **Keras**, and **AWS**. Combines hands-on engineering expertise with strategic business insights from an **MBA (GPA: 4.0)** from Sharif University of Technology. Certified in **AI (Cornell)** and **Generative AI Engineering**. Proven track record of delivering end-to-end ML solutions that align technical performance with business impact.
 
+Fully authorized to work in the U.S. | No visa sponsorship required | Open to relocation.
+
 SKILLS
 ======
 - **Programming & Tools:** Python, SQL, R, Git, Docker, Linux, AWS, MLflow, Databricks, Airflow, FastAPI, Flask, Power BI
@@ -56,11 +58,13 @@ EDUCATION
   * GPA: 3.49/4.0
 
 PROJECTS
-======[AI Alchemy – Open-Source AI Toolbox](https://github.com/hiraddlz/ai-alchemy) \| [Live Demo](https://ai-alchemy.streamlit.app/) \|                                                                                                 Dec 2024 – Mar 2025
+======
+[AI Alchemy – Open-Source AI Toolbox](https://github.com/hiraddlz/ai-alchemy) \| [Live Demo](https://ai-alchemy.streamlit.app/) \|                                                                                                 Dec 2024 – Mar 2025
 
 - Developed a suite of 10+ AI-powered productivity tools like YouTube Video Chat, Resume Matcher, IELTS Writing Examiner, Proofreader, File Q&A, etc.
 - Integrated cutting-edge AI frameworks like OpenAI API, LangGraph, Transformers, Vector Databases, and Streamlit to create an intuitive and scalable platform.
 - Designed and deployed using GitHub, Python, and Streamlit Cloud, ensuring free and accessible usage.
+
 [How people's sentiment and attention affect the return of Bitcoin?](https://github.com/hiraddlz/Bitcoin-sentiment-analysis) \| Tehran, Iran \|                                                     Oct 2021 – Sep 2022
 
 - Analyzed the influence of investor sentiment and attention (Twitter sentiment analysis, Google search trends, …) on Bitcoin returns using machine learning models.
@@ -96,19 +100,19 @@ ACHIEVEMENTS
 
 [CERTIFICATIONS](https://www.credly.com/users/hirad-dolatzadeh)
 ======
-**DataAI (DataX) – Expert Series** \| CompTIA \| 2026
+**[DataAI (DataX) – Expert Series](https://www.credly.com/badges/70642d7b-e849-45a1-99c6-02a74c62a593)** \| CompTIA \| 2026
 - 5+ years recommended experience level \| Python, ML, deep learning, NLP, MLOps \| Statistical analysis, predictive modeling
 
-**Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing with Python** \| Cornell University (eCornell) \| 2025
+**[Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing with Python](https://mycredentials.ecornell.cornell.edu/credential/iFLjGuaCfs)** \| Cornell University (eCornell) \| 2025
 
-**IBM Generative AI Engineering Professional Certificate** \| IBM \| 2025
-- Generative AI Advance Fine-Tuning for LLMs \| Generative AI: Prompt Engineering Basics \| Fundamentals of AI Agents Using RAG and LangChain \| Project: Generative AI Applications with RAG and LangChain \| Generative AI Language Modeling with Transformers
+**[IBM Generative AI Engineering Professional Certificate](https://mycredentials.ecornell.cornell.edu/credential/FZGZVvtdlI)** \| IBM \| 2025
+- [Generative AI Advance Fine-Tuning for LLMs](https://mycredentials.ecornell.cornell.edu/credential/SSwAjPeHll) \| [Generative AI: Prompt Engineering Basics](https://mycredentials.ecornell.cornell.edu/credential/OgYtnbPaxg) \| Fundamentals of AI Agents Using RAG and LangChain \| Project: Generative AI Applications with RAG and LangChain \| Generative AI Language Modeling with Transformers
 
-**TensorFlow: Advanced Techniques** \| DeepLearning.AI \| 2024
-- Custom and Distributed Training with TensorFlow \| Advanced Computer Vision with TensorFlow \| Generative Deep Learning with TensorFlow
+**[TensorFlow: Advanced Techniques](https://www.coursera.org/account/accomplishments/specialization/WL6AL6PU56V6)** \| DeepLearning.AI \| 2024
+- [Custom and Distributed Training with TensorFlow](https://www.coursera.org/account/accomplishments/verify/9SDCKLOSNRIE) \| [Advanced Computer Vision with TensorFlow](https://www.coursera.org/account/accomplishments/verify/VFCC2SOP4Y0R) \| [Generative Deep Learning with TensorFlow](https://www.coursera.org/account/accomplishments/verify/LKS3XTHC5PMZ)
 
-**IBM AI Engineering** \| IBM \| 2024
-- Introduction to Neural Networks and PyTorch \| Building Deep Learning Models with TensorFlow \| Introduction to Deep Learning & Neural Networks with Keras
+**[IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/T5L0D1SNYDU6)** \| IBM \| 2024
+- [Introduction to Neural Networks and PyTorch](https://www.credly.com/badges/ee996e9c-998d-4b74-85ae-806ee76e8875/public_url) \| [Building Deep Learning Models with TensorFlow](https://www.credly.com/badges/9ccf078c-08e8-403a-b714-325e3cb28240/public_url) \| [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/verify/XXCPSF9P5XJW)
 
-**Applied Software Engineering Fundamentals** \| IBM \| 2024
-- Hands-on Introduction to Linux Commands and Shell Scripting \| Getting Started with Git and GitHub \| Introduction to Software Engineering
+**[Applied Software Engineering Fundamentals](https://www.coursera.org/account/accomplishments/specialization/FMQDUCYJ0U0P)** \| IBM \| 2024
+- [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.credly.com/badges/0632da84-5b7e-46c5-8898-9d406a3da2ec/public_url) \| [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/ZF7T3HMNK7PY) \| [Introduction to Software Engineering](https://www.credly.com/badges/20b10eb1-fadd-4cc6-b263-e96d67070eb4/public_url)
