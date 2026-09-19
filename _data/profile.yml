@@ -2,12 +2,12 @@
 
 name: Hirad Dolatzadeh
 first_name: Hirad
-tagline: I build machine learning systems that ship — from RAG chatbots to predictive models in production.
+tagline: I build machine learning systems that actually make it to production, from RAG chatbots to predictive models.
 roles:
-  - Machine Learning Engineer
-  - Generative AI Builder
+  - AI / Machine Learning Engineer
   - Data Scientist
-  - MBA · Business Analytics
+  - Generative AI Builder
+  - MBA, Business Analytics
 location: Sacramento, CA
 availability: Open to relocation · US work authorized · No sponsorship needed
 email: hirad.dlz@gmail.com
@@ -18,12 +18,23 @@ kaggle: https://www.kaggle.com/hiraddolatzadeh
 credly: https://www.credly.com/users/hirad-dolatzadeh
 resume_url: /cv/
 
+# Chips floating around the hero photo
+hero_chips:
+  - label: RAG · LLMs · MLOps
+    prefix: ">"
+  - label: CompTIA DataX
+    prefix: "cert"
+  - label: 4.0 GPA
+    prefix: "MBA"
+
 about: >
-  I've spent the last few years turning messy data and half-formed ideas into working ML products —
-  an LLM document-search system for an enterprise, predictive-maintenance models on factory IoT streams,
-  an open-source toolbox of 10+ generative-AI apps that anyone can use for free. I care about the whole
-  path from notebook to production, and my MBA (4.0 GPA, Sharif University of Technology) means I'm just
-  as comfortable arguing about business impact as I am about loss functions.
+  Over the last few years I've been turning messy data and rough ideas into ML products people
+  actually use. I led the team that built an enterprise RAG search system on AWS, shipped
+  predictive-maintenance and attrition models that business teams rely on, and put together an
+  open-source toolbox of 10+ generative AI apps that anyone can use for free. Right now I'm modernizing
+  analytics at a California state agency, moving legacy SAS Viya workflows onto Databricks and Spark.
+  I like owning the whole path from data engineering to a monitored model in production, and my MBA
+  (4.0 GPA, Sharif University of Technology) helps me keep the business side in view.
 
 stats:
   - value: "3+"
@@ -42,30 +53,32 @@ experience:
     period: Sep 2025 – Present
     location: Sacramento, CA
     bullets:
-      - Migrating SAS Viya analytics to Python and Databricks for faster, more maintainable pipelines.
-      - Building Tableau / Power BI dashboards that drive public-health reporting across the state.
-      - Partnering with cross-functional teams to move models from research into production.
-    tags: [Python, Databricks, SAS, Tableau, Power BI]
+      - Migrating legacy SAS Viya code to Python and Databricks on Spark, making pipelines faster and easier to maintain.
+      - Building Tableau and Power BI dashboards on validated SQL data models so public-health officials get real-time analytics.
+      - Bringing in MLOps and data engineering practices with Docker and Airflow to make workflows more reliable and quicker to deploy.
+      - Working with cross-functional teams to move analytical work into production and improve dashboard usability.
+    tags: [Python, Databricks, Spark, SQL, Tableau, Power BI, Airflow, Docker]
   - role: Machine Learning Engineer
     org: Golrang System
     url: https://en.golrang.com/companies/golrang-system
     period: Apr 2023 – May 2024
     location: Tehran, Iran
     bullets:
-      - Led a team building an LLM-powered document search & chatbot with OpenAI embeddings, RAG and vector databases — faster retrieval, better query resolution.
-      - Mined IoT sensor data for smart-factory predictive maintenance, cutting equipment downtime and surfacing KPIs in BI dashboards.
-      - Built an OCR resume-scraping API and web app that slashed manual screening for HR.
-      - Designed employee-attrition models that shaped retention strategy.
-    tags: [LLMs, RAG, Vector DBs, IoT, FastAPI, OCR]
+      - Led a team building an LLM-powered document search and chatbot with OpenAI embeddings, RAG, vector databases and PyTorch, deployed on AWS. Optimized pipelines improved retrieval speed and query resolution.
+      - Analyzed IoT sensor data for smart-factory predictive maintenance, cutting equipment downtime, and built Power BI dashboards for equipment health.
+      - Built an OCR resume-scraping API and web app with Python, Flask and Docker that reduced manual screening for HR.
+      - Designed PyTorch models to forecast employee attrition, giving HR the signal it needed to improve retention.
+      - Set up MLOps pipelines with Airflow and Docker to automate model training, deployment and monitoring.
+    tags: [LLMs, RAG, Vector DBs, PyTorch, AWS, Airflow, Docker, Flask, OCR]
   - role: Machine Learning Engineer
     org: Fanap Plus / Gereh
     period: Dec 2021 – Mar 2023
     location: Tehran, Iran
     bullets:
-      - Built and maintained ETL pipelines feeding business-intelligence datasets.
+      - Built and maintained PySpark ETL pipelines that fed business-intelligence datasets and made data easier to reach for strategic decisions.
       - Shipped a web dashboard for KPIs and analysis results that guided marketing decisions.
-      - Ran surveys and A/B tests, then analyzed results to sharpen campaign strategy.
-    tags: [ETL, A/B Testing, Dashboards, SQL]
+      - Designed surveys and A/B tests for marketing research, then analyzed the results to sharpen campaigns and customer engagement.
+    tags: [PySpark, ETL, A/B Testing, Dashboards, SQL]
   - role: Teaching Assistant · Artificial Neural Networks
     org: Tarbiat Modares University
     period: Jan 2023 – Jul 2023
@@ -78,18 +91,18 @@ experience:
     period: Jan 2022 – Jun 2022
     location: Tehran, Iran
     bullets:
-      - Mentored student projects on blockchain and machine learning in the FinTech course.
+      - Supported students building blockchain and machine learning projects, and earned positive course feedback.
     tags: [Teaching, Blockchain, ML in Finance]
 
 projects:
   - title: AI Alchemy
     subtitle: Open-source AI toolbox
-    period: Dec 2024 – Mar 2025
+    period: Dec 2024 – Apr 2025
     description: >
-      A suite of 10+ generative-AI productivity tools — YouTube Video Chat, Resume Matcher, IELTS Writing
-      Examiner, Proofreader, File Q&A and more — built on the OpenAI API, LangGraph, Transformers and vector
-      databases, deployed free on Streamlit Cloud.
-    tags: [OpenAI, LangGraph, RAG, Streamlit]
+      A suite of 10+ generative AI productivity tools (YouTube Video Chat, Resume Matcher, IELTS Writing
+      Examiner, Proofreader, File Q&A and more) built on the OpenAI API, LangGraph, HuggingFace Transformers
+      and vector databases. CI/CD runs through GitHub Actions and Docker, and it's deployed free on Streamlit Cloud.
+    tags: [OpenAI, LangGraph, RAG, Streamlit, GitHub Actions]
     github: https://github.com/hiraddlz/ai-alchemy
     demo: https://ai-alchemy.streamlit.app/
     featured: true
@@ -97,87 +110,97 @@ projects:
     subtitle: MBA thesis · NLP + ML
     period: Oct 2021 – Sep 2022
     description: >
-      Does crowd mood move Bitcoin? Combined Twitter sentiment, Google Trends and the Fear & Greed Index
-      to forecast returns at 62% accuracy, with SHAP explaining which signals actually matter.
-    tags: [NLP, SHAP, TensorFlow, Time Series]
+      Does crowd mood move Bitcoin? I combined Twitter sentiment, Google Trends and the Fear & Greed Index
+      in Python and PySpark to forecast returns at 62% accuracy, then used SHAP to show which signals actually matter.
+    tags: [NLP, SHAP, PySpark, Time Series]
     github: https://github.com/hiraddlz/Bitcoin-sentiment-analysis
     featured: true
   - title: TSE Investor Sentiment
     subtitle: Financial econometrics
     period: Apr 2021 – Sep 2021
     description: >
-      Replicated Bandopadhyaya & Jones (2006) across 398 Tehran Stock Exchange stocks to measure how investor
-      sentiment drives returns.
+      Measured how investor sentiment drives returns across 398 Tehran Stock Exchange stocks, following the
+      sentiment-index method of Bandopadhyaya and Jones (2006).
     tags: [Econometrics, R, Finance]
     github: https://github.com/hiraddlz/MBA-Projects/tree/master/Financial%20econometrics/TSE%20Inverstors%20sentiments
   - title: Bet Sizing & Backtesting
     subtitle: Machine learning in finance
     period: Apr 2021 – Sep 2021
     description: >
-      Implemented chapters 10–11 of López de Prado's "Advances in Financial Machine Learning" — bet sizing and
-      backtest methodology for algorithmic trading.
+      Implemented chapters 10 and 11 of López de Prado's "Advances in Financial Machine Learning" to explore
+      bet sizing and backtest methodology for algorithmic trading.
     tags: [Quant Finance, Python, Backtesting]
     github: https://github.com/hiraddlz/MBA-Projects/tree/master/Machine%20learning%20in%20finance
   - title: Influencers & Purchase Intent
     subtitle: Conference paper
     period: Mar 2021
     description: >
-      Case study of Instagram garment-industry influencers and which characteristics actually convert followers
-      into buyers.
+      A case study of Instagram influencers in the garment industry, looking at which characteristics
+      actually turn followers into buyers.
     tags: [Research, Marketing Analytics]
     paper: https://www.sid.ir/Fa/Seminar/ViewPaper.aspx?ID=96497
   - title: Fuel Consumption Analysis
     subtitle: Business analytics
     period: Oct 2020 – Mar 2021
     description: >
-      Crawled caranddriver.com and modeled how vehicle specs drive fuel consumption.
-    tags: [Web Scraping, Regression]
+      Crawled caranddriver.com and modeled in R how vehicle specifications affect fuel consumption.
+    tags: [Web Scraping, R, Regression]
     github: https://github.com/hiraddlz/MBA-Projects/tree/master/Business%20analytics
 
 skills:
-  - group: Languages & Tools
-    items: [Python, SQL, R, Git, Docker, Linux, AWS, Databricks, MLflow, Airflow, FastAPI, Flask, Power BI, Tableau]
-  - group: ML / DL
-    items: [PyTorch, TensorFlow, Keras, Scikit-Learn, XGBoost, LightGBM, OpenCV, NLTK]
-  - group: Generative AI
-    items: [LLMs, RAG, LangChain, LangGraph, HuggingFace, Vector Databases, Prompt Engineering, Fine-tuning]
-  - group: Data Engineering
-    items: [Spark, Hadoop, Kafka, Hive, NoSQL, Kubernetes, ETL, CI/CD]
+  - group: Programming & Query
+    items: [Python, SQL, R, PySpark, Bash, Julia]
+  - group: ML & Deep Learning
+    items: [PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, LightGBM, OpenCV, NLTK]
+  - group: Generative AI & LLMs
+    items: [RAG, OpenAI API, Embeddings, Vector Databases, LangChain, LangGraph, HuggingFace, Prompt Engineering, Fine-tuning, AI Agents]
+  - group: Data & Big Data
+    items: [Apache Spark, Databricks, Airflow, Hadoop, Kafka, Hive, ETL / ELT, Pandas, NumPy, NoSQL]
+  - group: MLOps & Cloud
+    items: [Docker, Kubernetes, Git, GitHub Actions, MLflow, AWS, Linux, FastAPI, Flask, Streamlit]
+  - group: Analytics & BI
+    items: [Tableau, Power BI, A/B Testing, Statistical Analysis, SHAP, Time-Series Analysis, Experiment Design]
 
 education:
   - degree: Data Science & Data Analytics Certificate
     school: UCSC Silicon Valley Extension
     period: 2025
-    note: Big data (Spark, Kafka, Hive), NoSQL, cloud & DevOps
+    note: Big data (Hadoop, Spark, Kafka, Hive), NoSQL, cloud, Docker, Kubernetes, infrastructure as code
   - degree: Artificial Intelligence Program (AI360)
     school: Cornell University · eCornell
     period: 2024 – 2025
+    note: AI, machine learning, data science and NLP with Python
   - degree: MBA · Business Analytics
     school: Sharif University of Technology
     period: 2019 – 2022
-    note: GPA 4.0 / 4.0
+    note: GPA 4.0 / 4.0. Thesis on how public sentiment and attention affect Bitcoin returns
   - degree: B.S. Civil Engineering
     school: Sharif University of Technology
     period: 2012 – 2017
+    note: GPA 3.49 / 4.0
 
 certifications:
-  - name: DataAI (DataX) – Expert Series
+  - name: DataAI (DataX) Expert Series
     issuer: CompTIA
     year: 2026
     url: https://www.credly.com/badges/70642d7b-e849-45a1-99c6-02a74c62a593
+  - name: Data Science and Data Analytics
+    issuer: UCSC Silicon Valley Extension
+    year: 2025
+    url: https://www.credly.com/badges/01c443d1-eefc-4c21-8eaf-f899edfa8567
   - name: AI, ML, Data Science & NLP with Python
-    issuer: Cornell University
+    issuer: Cornell University (eCornell)
     year: 2025
     url: https://mycredentials.ecornell.cornell.edu/credential/iFLjGuaCfs
   - name: Generative AI Engineering Professional Certificate
     issuer: IBM
     year: 2025
-    url: https://mycredentials.ecornell.cornell.edu/credential/FZGZVvtdlI
-  - name: TensorFlow – Advanced Techniques
+    url: https://www.coursera.org/account/accomplishments/specialization/WL6AL6PU56V6
+  - name: TensorFlow Advanced Techniques Specialization
     issuer: DeepLearning.AI
     year: 2024
-    url: https://www.coursera.org/account/accomplishments/specialization/WL6AL6PU56V6
-  - name: AI Engineering
+    url: https://www.coursera.org/account/accomplishments/specialization/WE8BKL81B611
+  - name: AI Engineering Professional Certificate
     issuer: IBM
     year: 2024
     url: https://www.coursera.org/account/accomplishments/specialization/T5L0D1SNYDU6
@@ -187,6 +210,6 @@ certifications:
     url: https://www.coursera.org/account/accomplishments/specialization/FMQDUCYJ0U0P
 
 achievements:
-  - Top 0.17% nationally (391 / 229,948) — undergraduate entrance exam
-  - Top 0.37% (33 / 8,861) — master's entrance exam
-  - Top 0.34% (5 / 1,465) — Ph.D. entrance exam
+  - Top 0.34% (5 of 1,465) in the national Ph.D. entrance exam
+  - Top 0.37% (33 of 8,861) in the national master's entrance exam
+  - Top 0.17% (391 of 229,948) in the national bachelor's entrance exam

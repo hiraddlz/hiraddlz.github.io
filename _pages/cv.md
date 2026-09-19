@@ -136,15 +136,15 @@ Artificial Neural Network, Business Intelligence, Cognitive and Systems Theories
 
 ## CERTIFICATIONS
 
-**[DataAI (DataX) – Expert Series](https://www.credly.com/badges/70642d7b-e849-45a1-99c6-02a74c62a593)** \| CompTiya \| 2026
+**[DataAI (DataX) – Expert Series](https://www.credly.com/badges/70642d7b-e849-45a1-99c6-02a74c62a593)** \| CompTIA \| 2026
 - 5+ years recommended experience level \| Python, ML, deep learning, NLP, MLOps \| Statistical analysis, predictive modeling
 
 **[Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing with Python](https://mycredentials.ecornell.cornell.edu/credential/iFLjGuaCfs)** \| Cornell University (eCornell) \| 2025
 
-**[IBM Generative AI Engineering Professional Certificate](https://mycredentials.ecornell.cornell.edu/credential/FZGZVvtdlI)** \| IBM \| 2025
+**[IBM Generative AI Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/WL6AL6PU56V6)** \| IBM \| 2025
 - [Generative AI Advance Fine-Tuning for LLMs](https://mycredentials.ecornell.cornell.edu/credential/SSwAjPeHll) \| [Generative AI: Prompt Engineering Basics](https://mycredentials.ecornell.cornell.edu/credential/OgYtnbPaxg) \| Fundamentals of AI Agents Using RAG and LangChain \| Project: Generative AI Applications with RAG and LangChain \| Generative AI Language Modeling with Transformers
 
-**[TensorFlow: Advanced Techniques](https://www.coursera.org/account/accomplishments/specialization/WL6AL6PU56V6)** \| DeepLearning.AI \| 2024
+**[TensorFlow: Advanced Techniques](https://www.coursera.org/account/accomplishments/specialization/WE8BKL81B611)** \| DeepLearning.AI \| 2024
 - [Custom and Distributed Training with TensorFlow](https://www.coursera.org/account/accomplishments/verify/9SDCKLOSNRIE) \| [Advanced Computer Vision with TensorFlow](https://www.coursera.org/account/accomplishments/verify/VFCC2SOP4Y0R) \| [Generative Deep Learning with TensorFlow](https://www.coursera.org/account/accomplishments/verify/LKS3XTHC5PMZ)
 
 **[IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/T5L0D1SNYDU6)** \| IBM \| 2024
