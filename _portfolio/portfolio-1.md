@@ -1,6 +1,6 @@
 ---
 title: "AI Alchemy – Open-Source AI Toolbox"
-excerpt: "Suite of 10+ AI-powered productivity tools built with Streamlit, OpenAI API, and LangGraph<br/><img src='/images/500x300.png'>"
+excerpt: "Suite of 10+ AI-powered productivity tools built with Streamlit, OpenAI API, and LangGraph"
 collection: portfolio
 ---
 

@@ -1,0 +1,192 @@
+# Everything shown on the home page lives here. Edit this file, not the layout.
+
+name: Hirad Dolatzadeh
+first_name: Hirad
+tagline: I build machine learning systems that ship — from RAG chatbots to predictive models in production.
+roles:
+  - Machine Learning Engineer
+  - Generative AI Builder
+  - Data Scientist
+  - MBA · Business Analytics
+location: Sacramento, CA
+availability: Open to relocation · US work authorized · No sponsorship needed
+email: hirad.dlz@gmail.com
+phone: (669) 222-9663
+github: https://github.com/hiraddlz
+linkedin: https://www.linkedin.com/in/hirad-dolatzadeh/
+kaggle: https://www.kaggle.com/hiraddolatzadeh
+credly: https://www.credly.com/users/hirad-dolatzadeh
+resume_url: /cv/
+
+about: >
+  I've spent the last few years turning messy data and half-formed ideas into working ML products —
+  an LLM document-search system for an enterprise, predictive-maintenance models on factory IoT streams,
+  an open-source toolbox of 10+ generative-AI apps that anyone can use for free. I care about the whole
+  path from notebook to production, and my MBA (4.0 GPA, Sharif University of Technology) means I'm just
+  as comfortable arguing about business impact as I am about loss functions.
+
+stats:
+  - value: "3+"
+    label: years shipping ML
+  - value: "10+"
+    label: AI tools open-sourced
+  - value: "4.0"
+    label: MBA GPA
+  - value: "0.17%"
+    label: top national exam rank
+
+experience:
+  - role: Data Scientist · Research Data Specialist II
+    org: California Department of Public Health
+    url: https://www.cdph.ca.gov/
+    period: Sep 2025 – Present
+    location: Sacramento, CA
+    bullets:
+      - Migrating SAS Viya analytics to Python and Databricks for faster, more maintainable pipelines.
+      - Building Tableau / Power BI dashboards that drive public-health reporting across the state.
+      - Partnering with cross-functional teams to move models from research into production.
+    tags: [Python, Databricks, SAS, Tableau, Power BI]
+  - role: Machine Learning Engineer
+    org: Golrang System
+    url: https://en.golrang.com/companies/golrang-system
+    period: Apr 2023 – May 2024
+    location: Tehran, Iran
+    bullets:
+      - Led a team building an LLM-powered document search & chatbot with OpenAI embeddings, RAG and vector databases — faster retrieval, better query resolution.
+      - Mined IoT sensor data for smart-factory predictive maintenance, cutting equipment downtime and surfacing KPIs in BI dashboards.
+      - Built an OCR resume-scraping API and web app that slashed manual screening for HR.
+      - Designed employee-attrition models that shaped retention strategy.
+    tags: [LLMs, RAG, Vector DBs, IoT, FastAPI, OCR]
+  - role: Machine Learning Engineer
+    org: Fanap Plus / Gereh
+    period: Dec 2021 – Mar 2023
+    location: Tehran, Iran
+    bullets:
+      - Built and maintained ETL pipelines feeding business-intelligence datasets.
+      - Shipped a web dashboard for KPIs and analysis results that guided marketing decisions.
+      - Ran surveys and A/B tests, then analyzed results to sharpen campaign strategy.
+    tags: [ETL, A/B Testing, Dashboards, SQL]
+  - role: Teaching Assistant · Artificial Neural Networks
+    org: Tarbiat Modares University
+    period: Jan 2023 – Jul 2023
+    location: Tehran, Iran
+    bullets:
+      - Taught Python, deep-learning frameworks and RNN / GAN / LLM concepts to graduate students.
+    tags: [Teaching, PyTorch, Deep Learning]
+  - role: Teaching Assistant · Financial Technologies
+    org: Sharif University of Technology
+    period: Jan 2022 – Jun 2022
+    location: Tehran, Iran
+    bullets:
+      - Mentored student projects on blockchain and machine learning in the FinTech course.
+    tags: [Teaching, Blockchain, ML in Finance]
+
+projects:
+  - title: AI Alchemy
+    subtitle: Open-source AI toolbox
+    period: Dec 2024 – Mar 2025
+    description: >
+      A suite of 10+ generative-AI productivity tools — YouTube Video Chat, Resume Matcher, IELTS Writing
+      Examiner, Proofreader, File Q&A and more — built on the OpenAI API, LangGraph, Transformers and vector
+      databases, deployed free on Streamlit Cloud.
+    tags: [OpenAI, LangGraph, RAG, Streamlit]
+    github: https://github.com/hiraddlz/ai-alchemy
+    demo: https://ai-alchemy.streamlit.app/
+    featured: true
+  - title: Bitcoin Sentiment & Returns
+    subtitle: MBA thesis · NLP + ML
+    period: Oct 2021 – Sep 2022
+    description: >
+      Does crowd mood move Bitcoin? Combined Twitter sentiment, Google Trends and the Fear & Greed Index
+      to forecast returns at 62% accuracy, with SHAP explaining which signals actually matter.
+    tags: [NLP, SHAP, TensorFlow, Time Series]
+    github: https://github.com/hiraddlz/Bitcoin-sentiment-analysis
+    featured: true
+  - title: TSE Investor Sentiment
+    subtitle: Financial econometrics
+    period: Apr 2021 – Sep 2021
+    description: >
+      Replicated Bandopadhyaya & Jones (2006) across 398 Tehran Stock Exchange stocks to measure how investor
+      sentiment drives returns.
+    tags: [Econometrics, R, Finance]
+    github: https://github.com/hiraddlz/MBA-Projects/tree/master/Financial%20econometrics/TSE%20Inverstors%20sentiments
+  - title: Bet Sizing & Backtesting
+    subtitle: Machine learning in finance
+    period: Apr 2021 – Sep 2021
+    description: >
+      Implemented chapters 10–11 of López de Prado's "Advances in Financial Machine Learning" — bet sizing and
+      backtest methodology for algorithmic trading.
+    tags: [Quant Finance, Python, Backtesting]
+    github: https://github.com/hiraddlz/MBA-Projects/tree/master/Machine%20learning%20in%20finance
+  - title: Influencers & Purchase Intent
+    subtitle: Conference paper
+    period: Mar 2021
+    description: >
+      Case study of Instagram garment-industry influencers and which characteristics actually convert followers
+      into buyers.
+    tags: [Research, Marketing Analytics]
+    paper: https://www.sid.ir/Fa/Seminar/ViewPaper.aspx?ID=96497
+  - title: Fuel Consumption Analysis
+    subtitle: Business analytics
+    period: Oct 2020 – Mar 2021
+    description: >
+      Crawled caranddriver.com and modeled how vehicle specs drive fuel consumption.
+    tags: [Web Scraping, Regression]
+    github: https://github.com/hiraddlz/MBA-Projects/tree/master/Business%20analytics
+
+skills:
+  - group: Languages & Tools
+    items: [Python, SQL, R, Git, Docker, Linux, AWS, Databricks, MLflow, Airflow, FastAPI, Flask, Power BI, Tableau]
+  - group: ML / DL
+    items: [PyTorch, TensorFlow, Keras, Scikit-Learn, XGBoost, LightGBM, OpenCV, NLTK]
+  - group: Generative AI
+    items: [LLMs, RAG, LangChain, LangGraph, HuggingFace, Vector Databases, Prompt Engineering, Fine-tuning]
+  - group: Data Engineering
+    items: [Spark, Hadoop, Kafka, Hive, NoSQL, Kubernetes, ETL, CI/CD]
+
+education:
+  - degree: Data Science & Data Analytics Certificate
+    school: UCSC Silicon Valley Extension
+    period: 2025
+    note: Big data (Spark, Kafka, Hive), NoSQL, cloud & DevOps
+  - degree: Artificial Intelligence Program (AI360)
+    school: Cornell University · eCornell
+    period: 2024 – 2025
+  - degree: MBA · Business Analytics
+    school: Sharif University of Technology
+    period: 2019 – 2022
+    note: GPA 4.0 / 4.0
+  - degree: B.S. Civil Engineering
+    school: Sharif University of Technology
+    period: 2012 – 2017
+
+certifications:
+  - name: DataAI (DataX) – Expert Series
+    issuer: CompTIA
+    year: 2026
+    url: https://www.credly.com/badges/70642d7b-e849-45a1-99c6-02a74c62a593
+  - name: AI, ML, Data Science & NLP with Python
+    issuer: Cornell University
+    year: 2025
+    url: https://mycredentials.ecornell.cornell.edu/credential/iFLjGuaCfs
+  - name: Generative AI Engineering Professional Certificate
+    issuer: IBM
+    year: 2025
+    url: https://mycredentials.ecornell.cornell.edu/credential/FZGZVvtdlI
+  - name: TensorFlow – Advanced Techniques
+    issuer: DeepLearning.AI
+    year: 2024
+    url: https://www.coursera.org/account/accomplishments/specialization/WL6AL6PU56V6
+  - name: AI Engineering
+    issuer: IBM
+    year: 2024
+    url: https://www.coursera.org/account/accomplishments/specialization/T5L0D1SNYDU6
+  - name: Applied Software Engineering Fundamentals
+    issuer: IBM
+    year: 2024
+    url: https://www.coursera.org/account/accomplishments/specialization/FMQDUCYJ0U0P
+
+achievements:
+  - Top 0.17% nationally (391 / 229,948) — undergraduate entrance exam
+  - Top 0.37% (33 / 8,861) — master's entrance exam
+  - Top 0.34% (5 / 1,465) — Ph.D. entrance exam
